@@ -122,8 +122,8 @@
         align-items: center;
         gap: 0;
         padding-top: env(safe-area-inset-top, 0px);
-        padding-left: max(16px, env(safe-area-inset-left));
-        padding-right: max(16px, env(safe-area-inset-right));
+        padding-left: max(8px, env(safe-area-inset-left));
+        padding-right: max(8px, env(safe-area-inset-right));
         padding-bottom: 8px;
         overflow: hidden;
       }
@@ -154,7 +154,7 @@
       .cover-inner img {
         height: 100%;
         width: auto;
-        max-width: calc(100vw - 32px);
+        max-width: calc(100vw - 16px);
         aspect-ratio: 2 / 3;
         display: block;
         border-radius: 8px;
@@ -178,12 +178,12 @@
       .game-bottom {
         flex-shrink: 0;
         width: 100%;
-        height: calc(196px + max(16px, env(safe-area-inset-bottom)));
+        height: calc(156px + max(16px, env(safe-area-inset-bottom)));
         display: flex;
         flex-direction: column;
         align-items: center;
-        gap: 10px;
-        padding: 12px max(16px, env(safe-area-inset-right))
+        gap: 8px;
+        padding: 8px max(16px, env(safe-area-inset-right))
           max(16px, env(safe-area-inset-bottom))
           max(16px, env(safe-area-inset-left));
         background: #111;
@@ -192,8 +192,8 @@
       /* ── timer ── */
       .timer-container {
         position: relative;
-        width: 60px;
-        height: 60px;
+        width: 48px;
+        height: 48px;
         flex-shrink: 0;
       }
       .timer-ring {
@@ -215,7 +215,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        font-size: 1.2rem;
+        font-size: 1rem;
         font-weight: 700;
         color: #fff;
       }
@@ -223,7 +223,7 @@
       /* ── reveal ── */
       #reveal-wrap {
         width: 100%;
-        height: 52px;
+        height: 40px;
         text-align: center;
         opacity: 0;
         transition: opacity 0.5s ease;
@@ -264,7 +264,7 @@
       }
       .btn-choice {
         flex: 1;
-        padding: 15px 10px;
+        padding: 12px 10px;
         font-size: 1rem;
         font-weight: 700;
         border: none;
@@ -280,7 +280,7 @@
       .action-slot {
         position: relative;
         width: 100%;
-        height: 52px;
+        height: 44px;
       }
       .action-slot > .btn-row {
         position: absolute;
@@ -339,7 +339,7 @@
 
       <div class="game-bottom">
         <div class="timer-container">
-          <svg class="timer-ring" width="60" height="60" viewBox="0 0 100 100">
+          <svg class="timer-ring" width="48" height="48" viewBox="0 0 100 100">
             <circle class="timer-bg" cx="50" cy="50" r="44" />
             <circle class="timer-arc" id="timer-arc" cx="50" cy="50" r="44" />
           </svg>
