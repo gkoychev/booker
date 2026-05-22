@@ -1,0 +1,11 @@
+node_modules/
+data/covers/
+data/books.json
+books.json
+config.json
+scraper.js
+download-covers.js
+serve.js
+test.html
+package.json
+package-lock.json

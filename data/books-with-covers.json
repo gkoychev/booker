@@ -1,0 +1,2797 @@
+[
+  {
+    "title": "О дивный новый мир",
+    "author": "Хаксли Олдос",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000872330/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/o-divnyy-novyy-mir-872330/",
+    "coverPath": "data/covers/o-divnyy-novyy-mir-872330.jpg"
+  },
+  {
+    "title": "К востоку от Эдема",
+    "author": "Стейнбек Джон",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000868498/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/k-vostoku-ot-edema-868498/",
+    "coverPath": "data/covers/k-vostoku-ot-edema-868498.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "Оруэлл Джордж",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000866365/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/1984-866365/",
+    "coverPath": "data/covers/1984-866365.jpg"
+  },
+  {
+    "title": "На Западном фронте без перемен",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000833466/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/na-zapadnom-fronte-bez-peremen-833466/",
+    "coverPath": "data/covers/na-zapadnom-fronte-bez-peremen-833466.jpg"
+  },
+  {
+    "title": "Посторонний",
+    "author": "Камю Альбер",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000871160/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/postoronniy-871160/",
+    "coverPath": "data/covers/postoronniy-871160.jpg"
+  },
+  {
+    "title": "Сиддхартха. Путешествие к земле Востока",
+    "author": "Гессе Герман",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000860292/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/siddkhartkha-puteshestvie-k-zemle-vostoka-860292/",
+    "coverPath": "data/covers/siddkhartkha-puteshestvie-k-zemle-vostoka-860292.jpg"
+  },
+  {
+    "title": "Государство",
+    "author": "Платон",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000853400/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/gosudarstvo-853400/",
+    "coverPath": "data/covers/gosudarstvo-853400.jpg"
+  },
+  {
+    "title": "Титан",
+    "author": "Драйзер Теодор",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000862982/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/titan-862982/",
+    "coverPath": "data/covers/titan-862982.jpg"
+  },
+  {
+    "title": "Наедине с собой",
+    "author": "Аврелий Марк",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000858546/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/naedine-s-soboy-858546/",
+    "coverPath": "data/covers/naedine-s-soboy-858546.jpg"
+  },
+  {
+    "title": "Повелитель мух",
+    "author": "Голдинг Уильям",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830184/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/povelitel-mukh-830184/",
+    "coverPath": "data/covers/povelitel-mukh-830184.jpg"
+  },
+  {
+    "title": "Алхимик",
+    "author": "Коэльо Пауло",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000840762/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/alkhimik-840762/",
+    "coverPath": "data/covers/alkhimik-840762.jpg"
+  },
+  {
+    "title": "Триумфальная арка",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830799/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/triumfalnaya-arka-830799/",
+    "coverPath": "data/covers/triumfalnaya-arka-830799.jpg"
+  },
+  {
+    "title": "Горе от ума",
+    "author": "Грибоедов Александр Сергеевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000873501/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/gore-ot-uma-873501/",
+    "coverPath": "data/covers/gore-ot-uma-873501.jpg"
+  },
+  {
+    "title": "Гордость и предубеждение",
+    "author": "Остен Джейн",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000886461/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/gordost-i-predubezhdenie-886461/",
+    "coverPath": "data/covers/gordost-i-predubezhdenie-886461.jpg"
+  },
+  {
+    "title": "Обитаемый остров",
+    "author": "Стругацкий Аркадий Натанович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000898399/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/obitaemyy-ostrov-898399/",
+    "coverPath": "data/covers/obitaemyy-ostrov-898399.jpg"
+  },
+  {
+    "title": "Вендетта, или История всеми забытого",
+    "author": "Корелли Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000880020/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vendetta-ili-istoriya-vsemi-zabytogo-880020/",
+    "coverPath": "data/covers/vendetta-ili-istoriya-vsemi-zabytogo-880020.jpg"
+  },
+  {
+    "title": "Грозовой перевал",
+    "author": "Бронте Эмили",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000854507/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/grozovoy-pereval-854507/",
+    "coverPath": "data/covers/grozovoy-pereval-854507.jpg"
+  },
+  {
+    "title": "Поющие в терновнике",
+    "author": "Маккалоу Колин",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000832361/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/poyushchie-v-ternovnike-832361/",
+    "coverPath": "data/covers/poyushchie-v-ternovnike-832361.jpg"
+  },
+  {
+    "title": "Педагогическая поэма",
+    "author": "Макаренко Антон Семенович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000898371/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/pedagogicheskaya-poema-898371/",
+    "coverPath": "data/covers/pedagogicheskaya-poema-898371.jpg"
+  },
+  {
+    "title": "Дикая собака динго, или Повесть о первой любви",
+    "author": "Фраерман Рувим Исаевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000898360/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dikaya-sobaka-dingo-ili-povest-o-pervoy-lyubvi-898360/",
+    "coverPath": "data/covers/dikaya-sobaka-dingo-ili-povest-o-pervoy-lyubvi-898360.jpg"
+  },
+  {
+    "title": "Мировой порядок",
+    "author": "Киссинджер Генри",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000893802/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/mirovoy-poryadok-893802/",
+    "coverPath": "data/covers/mirovoy-poryadok-893802.jpg"
+  },
+  {
+    "title": "Пропаганда",
+    "author": "Бернейс Эдвард",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000893044/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/propaganda-893044/",
+    "coverPath": "data/covers/propaganda-893044.jpg"
+  },
+  {
+    "title": "Ваш покорный слуга кот",
+    "author": "Нацумэ Сосэки",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000885853/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vash-pokornyy-sluga-kot-885853/",
+    "coverPath": "data/covers/vash-pokornyy-sluga-kot-885853.jpg"
+  },
+  {
+    "title": "Мастер и Маргарита",
+    "author": "Булгаков Михаил Афанасьевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000872955/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/master-i-margarita-872955/",
+    "coverPath": "data/covers/master-i-margarita-872955.jpg"
+  },
+  {
+    "title": "Белые ночи",
+    "author": "Достоевский Федор Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000865765/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/belye-nochi-865765/",
+    "coverPath": "data/covers/belye-nochi-865765.jpg"
+  },
+  {
+    "title": "Чтоб услыхал хоть один человек",
+    "author": "Акутагава Рюноскэ",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000898380/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/chtob-uslyhal-hot-odin-chelovek-898380/",
+    "coverPath": "data/covers/chtob-uslyhal-hot-odin-chelovek-898380.jpg"
+  },
+  {
+    "title": "Темные аллеи",
+    "author": "Бунин Иван Алексеевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000876955/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/temnye-allei-876955/",
+    "coverPath": "data/covers/temnye-allei-876955.jpg"
+  },
+  {
+    "title": "Превращение",
+    "author": "Кафка Франц",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000858581/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/prevrashchenie-858581/",
+    "coverPath": "data/covers/prevrashchenie-858581.jpg"
+  },
+  {
+    "title": "Вы, конечно, шутите, мистер Фейнман!",
+    "author": "Фейнман Ричард",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000846350/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vy-konechno-shutite-mister-feynman-846350/",
+    "coverPath": "data/covers/vy-konechno-shutite-mister-feynman-846350.jpg"
+  },
+  {
+    "title": "Бойцовский клуб",
+    "author": "Паланик Чак",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000863988/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/boytsovskiy-klub-863988/",
+    "coverPath": "data/covers/boytsovskiy-klub-863988.jpg"
+  },
+  {
+    "title": "Солярис",
+    "author": "Лем Станислав",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830190/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/solyaris-830190/",
+    "coverPath": "data/covers/solyaris-830190.jpg"
+  },
+  {
+    "title": "О мышах и людях. Жемчужина",
+    "author": "Стейнбек Джон",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000832883/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/o-myshakh-i-lyudyakh-zhemchuzhina-832883/",
+    "coverPath": "data/covers/o-myshakh-i-lyudyakh-zhemchuzhina-832883.jpg"
+  },
+  {
+    "title": "Фауст",
+    "author": "Гете Иоганн Вольфганг",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000839409/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/faust-839409/",
+    "coverPath": "data/covers/faust-839409.jpg"
+  },
+  {
+    "title": "Матерь Тьма",
+    "author": "Воннегут К.",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000897490/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/mater-tma-897490/",
+    "coverPath": "data/covers/mater-tma-897490.jpg"
+  },
+  {
+    "title": "Арсен Люпен",
+    "author": "Леблан Морис",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000897486/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/arsen-lyupen-897486/",
+    "coverPath": "data/covers/arsen-lyupen-897486.jpg"
+  },
+  {
+    "title": "Бесы (замена картинки)",
+    "author": "Достоевский Федор Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000863889/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/besy-zamena-kartinki-863889/",
+    "coverPath": "data/covers/besy-zamena-kartinki-863889.jpg"
+  },
+  {
+    "title": "Финансист",
+    "author": "Драйзер Теодор",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000849996/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/finansist-849996/",
+    "coverPath": "data/covers/finansist-849996.jpg"
+  },
+  {
+    "title": "Падение",
+    "author": "Камю Альбер",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000897484/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/padenie-897484/",
+    "coverPath": "data/covers/padenie-897484.jpg"
+  },
+  {
+    "title": "Мертвые души",
+    "author": "Гоголь Николай Васильевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000865516/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/mertvye-dushi-865516/",
+    "coverPath": "data/covers/mertvye-dushi-865516.jpg"
+  },
+  {
+    "title": "Мы",
+    "author": "Замятин Евгений Иванович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000863435/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/my-863435/",
+    "coverPath": "data/covers/my-863435.jpg"
+  },
+  {
+    "title": "Скотный двор. Эссе",
+    "author": "Оруэлл Джордж",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000832491/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/skotnyy-dvor-esse-832491/",
+    "coverPath": "data/covers/skotnyy-dvor-esse-832491.jpg"
+  },
+  {
+    "title": "Степной волк",
+    "author": "Гессе Герман",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830189/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/stepnoy-volk-830189/",
+    "coverPath": "data/covers/stepnoy-volk-830189.jpg"
+  },
+  {
+    "title": "Исповедь",
+    "author": "Августин Аврелий",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000897542/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ispoved-897542/",
+    "coverPath": "data/covers/ispoved-897542.jpg"
+  },
+  {
+    "title": "Заводной апельсин",
+    "author": "Берджесс Энтони",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830798/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zavodnoy-apelsin-830798/",
+    "coverPath": "data/covers/zavodnoy-apelsin-830798.jpg"
+  },
+  {
+    "title": "Аэропорт",
+    "author": "Хейли Артур",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000832964/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/aeroport-832964/",
+    "coverPath": "data/covers/aeroport-832964.jpg"
+  },
+  {
+    "title": "Под стеклянным колпаком",
+    "author": "Плат Сильвия",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000885021/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/pod-steklyannym-kolpakom-885021/",
+    "coverPath": "data/covers/pod-steklyannym-kolpakom-885021.jpg"
+  },
+  {
+    "title": "Евгений Онегин; [Борис Годунов; Маленькие трагедии]",
+    "author": "Пушкин Александр Сергеевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000856580/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/evgeniy-onegin-boris-godunov-malenkie-tragedii-856580/",
+    "coverPath": "data/covers/evgeniy-onegin-boris-godunov-malenkie-tragedii-856580.jpg"
+  },
+  {
+    "title": "Пикник на обочине",
+    "author": "Стругацкий Аркадий Натанович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000842614/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/piknik-na-obochine-842614/",
+    "coverPath": "data/covers/piknik-na-obochine-842614.jpg"
+  },
+  {
+    "title": "Король в желтом",
+    "author": "Чамберс Роберт",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000897474/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/korol-v-zheltom-897474/",
+    "coverPath": "data/covers/korol-v-zheltom-897474.jpg"
+  },
+  {
+    "title": "Как закалялась сталь",
+    "author": "Островский Николай Алексеевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000876965/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/kak-zakalyalas-stal-876965/",
+    "coverPath": "data/covers/kak-zakalyalas-stal-876965.jpg"
+  },
+  {
+    "title": "Маг",
+    "author": "Моэм Сомерсет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000896687/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/mag-896687/",
+    "coverPath": "data/covers/mag-896687.jpg"
+  },
+  {
+    "title": "Убить пересмешника",
+    "author": "Ли Харпер",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000831430/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ubit-peresmeshnika-831430/",
+    "coverPath": "data/covers/ubit-peresmeshnika-831430.jpg"
+  },
+  {
+    "title": "Спеши любить",
+    "author": "Спаркс Николас",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000854091/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/speshi-lyubit-854091/",
+    "coverPath": "data/covers/speshi-lyubit-854091.jpg"
+  },
+  {
+    "title": "Искусство любить",
+    "author": "Фромм Эрих",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000832499/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/iskusstvo-lyubit-832499/",
+    "coverPath": "data/covers/iskusstvo-lyubit-832499.jpg"
+  },
+  {
+    "title": "Тень ветра",
+    "author": "Сафон Карлос Руис",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000896559/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ten-vetra-896559/",
+    "coverPath": "data/covers/ten-vetra-896559.jpg"
+  },
+  {
+    "title": "Цитадель",
+    "author": "Сент-Экзюпери Антуан де",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000896688/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/tsitadel-896688/",
+    "coverPath": "data/covers/tsitadel-896688.jpg"
+  },
+  {
+    "title": "Нетерпение сердца",
+    "author": "Цвейг Стефан",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000896690/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/neterpenie-serdtsa-896690/",
+    "coverPath": "data/covers/neterpenie-serdtsa-896690.jpg"
+  },
+  {
+    "title": "Страсть",
+    "author": "Мопассан Ги де",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000896554/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/strast-896554/",
+    "coverPath": "data/covers/strast-896554.jpg"
+  },
+  {
+    "title": "Герой нашего времени",
+    "author": "Лермонтов Михаил Юрьевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000860937/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/geroy-nashego-vremeni-860937/",
+    "coverPath": "data/covers/geroy-nashego-vremeni-860937.jpg"
+  },
+  {
+    "title": "Джейн Эйр",
+    "author": "Бронте Шарлотта",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000843187/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dzheyn-eyr-843187/",
+    "coverPath": "data/covers/dzheyn-eyr-843187.jpg"
+  },
+  {
+    "title": "Бойня №5",
+    "author": "Воннегут К.",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830186/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/boynya-5-830186/",
+    "coverPath": "data/covers/boynya-5-830186.jpg"
+  },
+  {
+    "title": "Дневник памяти",
+    "author": "Спаркс Николас",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000835145/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dnevnik-pamyati-835145/",
+    "coverPath": "data/covers/dnevnik-pamyati-835145.jpg"
+  },
+  {
+    "title": "Диалоги. Апология Сократа",
+    "author": "Платон",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000896399/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dialogi-apologiya-sokrata-896399/",
+    "coverPath": "data/covers/dialogi-apologiya-sokrata-896399.jpg"
+  },
+  {
+    "title": "О психологии бессознательного",
+    "author": "Юнг Карл Густав",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000896385/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/o-psikhologii-bessoznatelnogo-896385/",
+    "coverPath": "data/covers/o-psikhologii-bessoznatelnogo-896385.jpg"
+  },
+  {
+    "title": "Человек недостойный",
+    "author": "Дадзай Осаму",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000886527/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/chelovek-nedostoynyy-886527/",
+    "coverPath": "data/covers/chelovek-nedostoynyy-886527.jpg"
+  },
+  {
+    "title": "Котлован",
+    "author": "Платонов Андрей Платонович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000896294/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/kotlovan-896294/",
+    "coverPath": "data/covers/kotlovan-896294.jpg"
+  },
+  {
+    "title": "Реквием по мечте",
+    "author": "Селби-мл. Хьюберт",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000895801/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/rekviem-po-mechte-895801/",
+    "coverPath": "data/covers/rekviem-po-mechte-895801.jpg"
+  },
+  {
+    "title": "О душе",
+    "author": "Аристотель",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000885776/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/o-dushe-885776/",
+    "coverPath": "data/covers/o-dushe-885776.jpg"
+  },
+  {
+    "title": "Белый олеандр",
+    "author": "Фитч Джанет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000896229/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/belyy-oleandr-896229/",
+    "coverPath": "data/covers/belyy-oleandr-896229.jpg"
+  },
+  {
+    "title": "12 стульев",
+    "author": "Ильф Илья Арнольдович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000871731/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/12-stulev-871731/",
+    "coverPath": "data/covers/12-stulev-871731.jpg",
+    "regions": [
+      {
+        "label": "title",
+        "polygon": [
+          [
+            52,
+            1
+          ],
+          [
+            99,
+            1
+          ],
+          [
+            99,
+            13
+          ],
+          [
+            52,
+            13
+          ]
+        ]
+      },
+      {
+        "label": "author",
+        "polygon": [
+          [
+            1,
+            1
+          ],
+          [
+            37,
+            1
+          ],
+          [
+            37,
+            58
+          ],
+          [
+            1,
+            58
+          ]
+        ]
+      },
+      {
+        "label": "author",
+        "polygon": [
+          [
+            27,
+            58
+          ],
+          [
+            73,
+            58
+          ],
+          [
+            73,
+            73
+          ],
+          [
+            27,
+            73
+          ]
+        ]
+      },
+      {
+        "label": "author",
+        "polygon": [
+          [
+            1,
+            72
+          ],
+          [
+            99,
+            72
+          ],
+          [
+            99,
+            88
+          ],
+          [
+            1,
+            88
+          ]
+        ]
+      },
+      {
+        "label": "series",
+        "polygon": [
+          [
+            3,
+            88
+          ],
+          [
+            99,
+            88
+          ],
+          [
+            99,
+            98
+          ],
+          [
+            3,
+            98
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ревизор",
+    "author": "Гоголь Николай Васильевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000866973/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/revizor-866973/",
+    "coverPath": "data/covers/revizor-866973.jpg"
+  },
+  {
+    "title": "Письма Баламута. Баламут предлагает тост",
+    "author": "Льюис  Клайв Стейплз",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000853399/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/pisma-balamuta-balamut-predlagaet-tost-853399/",
+    "coverPath": "data/covers/pisma-balamuta-balamut-predlagaet-tost-853399.jpg"
+  },
+  {
+    "title": "Формирование общественного мнения",
+    "author": "Бернейс Эдвард",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000896052/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/formirovanie-obshchestvennogo-mneniya-896052/",
+    "coverPath": "data/covers/formirovanie-obshchestvennogo-mneniya-896052.jpg"
+  },
+  {
+    "title": "Письма о добром и прекрасном",
+    "author": "Лихачев Дмитрий Сергеевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000855229/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/pisma-o-dobrom-i-prekrasnom-855229/",
+    "coverPath": "data/covers/pisma-o-dobrom-i-prekrasnom-855229.jpg"
+  },
+  {
+    "title": "Три товарища",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000836324/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/tri-tovarishcha-836324/",
+    "coverPath": "data/covers/tri-tovarishcha-836324.jpg"
+  },
+  {
+    "title": "Черный обелиск",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000842084/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/chernyy-obelisk-842084/",
+    "coverPath": "data/covers/chernyy-obelisk-842084.jpg"
+  },
+  {
+    "title": "Ставок больше нет",
+    "author": "Сартр Жан Поль",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000877627/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/stavok-bolshe-net-877627/",
+    "coverPath": "data/covers/stavok-bolshe-net-877627.jpg"
+  },
+  {
+    "title": "Отцы и дети",
+    "author": "Тургенев Иван Сергеевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000849434/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ottsy-i-deti-849434/",
+    "coverPath": "data/covers/ottsy-i-deti-849434.jpg"
+  },
+  {
+    "title": "Риторика. Поэтика",
+    "author": "Аристотель",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000895247/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ritorika-poetika-895247/",
+    "coverPath": "data/covers/ritorika-poetika-895247.jpg"
+  },
+  {
+    "title": "Искусство спора. Как читать книги",
+    "author": "Поварнин Сергей Иннокентьевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000895246/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/iskusstvo-spora-kak-chitat-knigi-895246/",
+    "coverPath": "data/covers/iskusstvo-spora-kak-chitat-knigi-895246.jpg"
+  },
+  {
+    "title": "Логика",
+    "author": "Гегель Георг",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000869561/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/logika-869561/",
+    "coverPath": "data/covers/logika-869561.jpg"
+  },
+  {
+    "title": "История цивилизации",
+    "author": "Уэллс Герберт Джордж",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000895102/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/istoriya-tsivilizatsii-895102/",
+    "coverPath": "data/covers/istoriya-tsivilizatsii-895102.jpg"
+  },
+  {
+    "title": "Дон Кихот",
+    "author": "Мигель де Сервантес Сааведра",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000895095/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/don-kikhot-895095/",
+    "coverPath": "data/covers/don-kikhot-895095.jpg"
+  },
+  {
+    "title": "Гранатовый браслет",
+    "author": "Куприн Александр Иванович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000872877/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/granatovyy-braslet-872877/",
+    "coverPath": "data/covers/granatovyy-braslet-872877.jpg"
+  },
+  {
+    "title": "Игрок",
+    "author": "Достоевский Федор Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000858579/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/igrok-858579/",
+    "coverPath": "data/covers/igrok-858579.jpg"
+  },
+  {
+    "title": "Война и мир. Кн.1. [Т.1, 2",
+    "author": "Толстой Лев Николаевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000894906/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/voyna-i-mir-kn-1-t-1-2-894906/",
+    "coverPath": "data/covers/voyna-i-mir-kn-1-t-1-2-894906.jpg"
+  },
+  {
+    "title": "Яма",
+    "author": "Куприн Александр Иванович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000879372/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/yama-879372/",
+    "coverPath": "data/covers/yama-879372.jpg"
+  },
+  {
+    "title": "Зов Ктулху",
+    "author": "Лавкрафт Говард Филлипс",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000843322/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zov-ktulkhu-843322/",
+    "coverPath": "data/covers/zov-ktulkhu-843322.jpg"
+  },
+  {
+    "title": "Война и мир. Кн.2, [тт. 3, 4",
+    "author": "Толстой Лев Николаевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000894907/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/voyna-i-mir-kn-2-tt-3-4-894907/",
+    "coverPath": "data/covers/voyna-i-mir-kn-2-tt-3-4-894907.jpg"
+  },
+  {
+    "title": "Демиан",
+    "author": "Гессе Герман",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000837187/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/demian-837187/",
+    "coverPath": "data/covers/demian-837187.jpg"
+  },
+  {
+    "title": "Об ораторском искусстве",
+    "author": "Цицерон Марк Туллий",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000894929/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ob-oratorskom-iskusstve-894929/",
+    "coverPath": "data/covers/ob-oratorskom-iskusstve-894929.jpg"
+  },
+  {
+    "title": "Звук и ярость",
+    "author": "Фолкнер Уильям",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000894599/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zvuk-i-yarost-894599/",
+    "coverPath": "data/covers/zvuk-i-yarost-894599.jpg"
+  },
+  {
+    "title": "Отель \"У погибшего альпиниста\"",
+    "author": "Стругацкий Аркадий Натанович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000894930/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/otel-u-pogibshego-alpinista-894930/",
+    "coverPath": "data/covers/otel-u-pogibshego-alpinista-894930.jpg"
+  },
+  {
+    "title": "Пер Гюнт. Кукольный дом. Гедда Габлер",
+    "author": "Ибсен Генрик",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000894780/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/per-gyunt-kukolnyy-dom-gedda-gabler-894780/",
+    "coverPath": "data/covers/per-gyunt-kukolnyy-dom-gedda-gabler-894780.jpg"
+  },
+  {
+    "title": "Великий Гэтсби",
+    "author": "Фицджеральд Фрэнсис Скотт",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000883264/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/velikiy-getsbi-883264/",
+    "coverPath": "data/covers/velikiy-getsbi-883264.jpg"
+  },
+  {
+    "title": "Идиот (замена картинки)",
+    "author": "Достоевский Федор Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000863890/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/idiot-zamena-kartinki-863890/",
+    "coverPath": "data/covers/idiot-zamena-kartinki-863890.jpg"
+  },
+  {
+    "title": "Ночь в Лиссабоне",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000843852/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/noch-v-lissabone-843852/",
+    "coverPath": "data/covers/noch-v-lissabone-843852.jpg"
+  },
+  {
+    "title": "Иметь или быть?",
+    "author": "Фромм Эрих",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000843850/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/imet-ili-byt-843850/",
+    "coverPath": "data/covers/imet-ili-byt-843850.jpg"
+  },
+  {
+    "title": "Отель",
+    "author": "Хейли Артур",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000838831/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/otel-838831/",
+    "coverPath": "data/covers/otel-838831.jpg"
+  },
+  {
+    "title": "Жизнь взаймы, или У неба любимчиков нет",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000840122/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zhizn-vzaymy-ili-u-neba-lyubimchikov-net-840122/",
+    "coverPath": "data/covers/zhizn-vzaymy-ili-u-neba-lyubimchikov-net-840122.jpg"
+  },
+  {
+    "title": "Опрокинутый мир",
+    "author": "Прист Кристофер",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000892547/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/oprokinutyy-mir-892547/",
+    "coverPath": "data/covers/oprokinutyy-mir-892547.jpg"
+  },
+  {
+    "title": "Каллокаин",
+    "author": "Бойе Карин",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000894783/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/kallokain-894783/",
+    "coverPath": "data/covers/kallokain-894783.jpg"
+  },
+  {
+    "title": "За миллиард лет до конца света",
+    "author": "Стругацкий Аркадий Натанович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000851032/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/za-milliard-let-do-kontsa-sveta-851032/",
+    "coverPath": "data/covers/za-milliard-let-do-kontsa-sveta-851032.jpg"
+  },
+  {
+    "title": "Театр",
+    "author": "Моэм Сомерсет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000832959/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/teatr-832959/",
+    "coverPath": "data/covers/teatr-832959.jpg"
+  },
+  {
+    "title": "Унесенные ветром т. 1",
+    "author": "Митчелл Маргарет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000894555/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/unesennye-vetrom-t-1-894555/",
+    "coverPath": "data/covers/unesennye-vetrom-t-1-894555.jpg"
+  },
+  {
+    "title": "Воскресение",
+    "author": "Толстой Лев Николаевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000893825/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/voskresenie-893825/",
+    "coverPath": "data/covers/voskresenie-893825.jpg"
+  },
+  {
+    "title": "Унесенные ветром т. 2",
+    "author": "Митчелл Маргарет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000894556/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/unesennye-vetrom-t-2-894556/",
+    "coverPath": "data/covers/unesennye-vetrom-t-2-894556.jpg"
+  },
+  {
+    "title": "Десять вечеров",
+    "author": null,
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000893797/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/desyat-vecherov-893797/",
+    "coverPath": "data/covers/desyat-vecherov-893797.jpg"
+  },
+  {
+    "title": "Затерянный мир",
+    "author": "Дойл Артур Конан",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000893819/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zateryannyy-mir-893819/",
+    "coverPath": "data/covers/zateryannyy-mir-893819.jpg"
+  },
+  {
+    "title": "Трудно быть богом",
+    "author": "Стругацкий Аркадий Натанович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000844574/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/trudno-byt-bogom-844574/",
+    "coverPath": "data/covers/trudno-byt-bogom-844574.jpg"
+  },
+  {
+    "title": "Чума",
+    "author": "Камю Альбер",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830173/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/chuma-830173/",
+    "coverPath": "data/covers/chuma-830173.jpg"
+  },
+  {
+    "title": "Портрет Дориана Грея",
+    "author": "Уайльд Оскар",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000832957/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/portret-doriana-greya-832957/",
+    "coverPath": "data/covers/portret-doriana-greya-832957.jpg"
+  },
+  {
+    "title": "Мартин Иден",
+    "author": "Лондон Джек",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000833879/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/martin-iden-833879/",
+    "coverPath": "data/covers/martin-iden-833879.jpg"
+  },
+  {
+    "title": "Старик и море. Зеленые холмы Африки (Новый Перевод)",
+    "author": "Хемингуэй Эрнест",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830188/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/starik-i-more-zelenye-kholmy-afriki-novyy-perevod-830188/",
+    "coverPath": "data/covers/starik-i-more-zelenye-kholmy-afriki-novyy-perevod-830188.jpg"
+  },
+  {
+    "title": "Прекрасные и обреченные",
+    "author": "Фицджеральд Фрэнсис Скотт",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000893000/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/prekrasnye-i-obrechennye-893000/",
+    "coverPath": "data/covers/prekrasnye-i-obrechennye-893000.jpg"
+  },
+  {
+    "title": "Книга чая",
+    "author": "Окакура Какудзо",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000892963/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/kniga-chaya-892963/",
+    "coverPath": "data/covers/kniga-chaya-892963.jpg"
+  },
+  {
+    "title": "Братья Карамазовы",
+    "author": "Достоевский Федор Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000872909/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/bratya-karamazovy-872909/",
+    "coverPath": "data/covers/bratya-karamazovy-872909.jpg"
+  },
+  {
+    "title": "Преступление и наказание",
+    "author": "Достоевский Федор Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000848804/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/prestuplenie-i-nakazanie-848804/",
+    "coverPath": "data/covers/prestuplenie-i-nakazanie-848804.jpg"
+  },
+  {
+    "title": "Рождественские каникулы",
+    "author": "Моэм Сомерсет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000891764/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/rozhdestvenskie-kanikuly-891764/",
+    "coverPath": "data/covers/rozhdestvenskie-kanikuly-891764.jpg"
+  },
+  {
+    "title": "Занимательная физика",
+    "author": "Перельман Яков Исидорович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000893048/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zanimatelnaya-fizika-893048/",
+    "coverPath": "data/covers/zanimatelnaya-fizika-893048.jpg"
+  },
+  {
+    "title": "Душа человека",
+    "author": "Фромм Эрих",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000892497/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dusha-cheloveka-892497/",
+    "coverPath": "data/covers/dusha-cheloveka-892497.jpg"
+  },
+  {
+    "title": "Понедельник начинается в субботу",
+    "author": "Стругацкий Аркадий Натанович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000840774/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ponedelnik-nachinaetsya-v-subbotu-840774/",
+    "coverPath": "data/covers/ponedelnik-nachinaetsya-v-subbotu-840774.jpg"
+  },
+  {
+    "title": "Так говорил Заратустра",
+    "author": "Ницше Фридрих Вильгельм",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000834523/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/tak-govoril-zaratustra-834523/",
+    "coverPath": "data/covers/tak-govoril-zaratustra-834523.jpg"
+  },
+  {
+    "title": "Легенды и мифы Древней Греции",
+    "author": "Кун Николай Альбертович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000892486/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/legendy-i-mify-drevney-gretsii-892486/",
+    "coverPath": "data/covers/legendy-i-mify-drevney-gretsii-892486.jpg"
+  },
+  {
+    "title": "Тошнота",
+    "author": "Сартр Жан Поль",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830176/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/toshnota-830176/",
+    "coverPath": "data/covers/toshnota-830176.jpg"
+  },
+  {
+    "title": "Любовник леди Чаттерли",
+    "author": "Лоуренс Дэвид Герберт",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000892485/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/lyubovnik-ledi-chatterli-892485/",
+    "coverPath": "data/covers/lyubovnik-ledi-chatterli-892485.jpg"
+  },
+  {
+    "title": "Собачье сердце",
+    "author": "Булгаков Михаил Афанасьевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000848098/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/sobache-serdtse-848098/",
+    "coverPath": "data/covers/sobache-serdtse-848098.jpg"
+  },
+  {
+    "title": "Вдали от безумной толпы",
+    "author": "Гарди Томас",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000891756/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vdali-ot-bezumnoy-tolpy-891756/",
+    "coverPath": "data/covers/vdali-ot-bezumnoy-tolpy-891756.jpg"
+  },
+  {
+    "title": "Архетипы и коллективное бессознательное",
+    "author": "Юнг Карл Густав",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000882532/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/arkhetipy-i-kollektivnoe-bessoznatelnoe-882532/",
+    "coverPath": "data/covers/arkhetipy-i-kollektivnoe-bessoznatelnoe-882532.jpg"
+  },
+  {
+    "title": "Роза и семь братьев",
+    "author": "Олкотт Луиза Мэй",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000892389/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/roza-i-sem-bratev-892389/",
+    "coverPath": "data/covers/roza-i-sem-bratev-892389.jpg"
+  },
+  {
+    "title": "О скоротечности жизни",
+    "author": "Сенека Луций Анней",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000880026/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/o-skorotechnosti-zhizni-880026/",
+    "coverPath": "data/covers/o-skorotechnosti-zhizni-880026.jpg"
+  },
+  {
+    "title": "Доктор Живаго",
+    "author": "Пастернак Борис Леонидович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000857347/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/doktor-zhivago-857347/",
+    "coverPath": "data/covers/doktor-zhivago-857347.jpg"
+  },
+  {
+    "title": "Маленький принц",
+    "author": "Сент-Экзюпери Антуан де",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000854743/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/malenkiy-prints-854743/",
+    "coverPath": "data/covers/malenkiy-prints-854743.jpg"
+  },
+  {
+    "title": "История западной философии",
+    "author": "Рассел Бертран",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000890689/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/istoriya-zapadnoy-filosofii-890689/",
+    "coverPath": "data/covers/istoriya-zapadnoy-filosofii-890689.jpg"
+  },
+  {
+    "title": "Мир как воля и представление",
+    "author": "Шопенгауэр Артур",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000891817/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/mir-kak-volya-i-predstavlenie-891817/",
+    "coverPath": "data/covers/mir-kak-volya-i-predstavlenie-891817.jpg"
+  },
+  {
+    "title": "Капитал",
+    "author": "Маркс Карл",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000885600/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/kapital-885600/",
+    "coverPath": "data/covers/kapital-885600.jpg"
+  },
+  {
+    "title": "Приключения Тома Сойера",
+    "author": "Твен Марк",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000891734/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/priklyucheniya-toma-soyera-891734/",
+    "coverPath": "data/covers/priklyucheniya-toma-soyera-891734.jpg"
+  },
+  {
+    "title": "Страдания юного Вертера",
+    "author": "Гете Иоганн Вольфганг",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000890691/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/stradaniya-yunogo-vertera-890691/",
+    "coverPath": "data/covers/stradaniya-yunogo-vertera-890691.jpg"
+  },
+  {
+    "title": "Сага о Форсайтах",
+    "author": "Голсуорси Джон",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000890143/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/saga-o-forsaytakh-890143/",
+    "coverPath": "data/covers/saga-o-forsaytakh-890143.jpg"
+  },
+  {
+    "title": "Во весь голос",
+    "author": "Маяковский Владимир Владимирович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000889951/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vo-ves-golos-889951/",
+    "coverPath": "data/covers/vo-ves-golos-889951.jpg"
+  },
+  {
+    "title": "Бремя страстей человеческих",
+    "author": "Моэм Сомерсет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000864157/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/bremya-strastey-chelovecheskikh-864157/",
+    "coverPath": "data/covers/bremya-strastey-chelovecheskikh-864157.jpg"
+  },
+  {
+    "title": "Время жить и время умирать",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000855814/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vremya-zhit-i-vremya-umirat-855814/",
+    "coverPath": "data/covers/vremya-zhit-i-vremya-umirat-855814.jpg"
+  },
+  {
+    "title": "Морфий",
+    "author": "Булгаков Михаил Афанасьевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000845233/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/morfiy-845233/",
+    "coverPath": "data/covers/morfiy-845233.jpg"
+  },
+  {
+    "title": "История западной философии [В 2 т.] Том 2",
+    "author": "Рассел Бертран",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000890685/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/istoriya-zapadnoy-filosofii-v-2-t-tom-2-890685/",
+    "coverPath": "data/covers/istoriya-zapadnoy-filosofii-v-2-t-tom-2-890685.jpg"
+  },
+  {
+    "title": "История западной философии [В 2 т.] Том 1",
+    "author": "Рассел Бертран",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000890682/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/istoriya-zapadnoy-filosofii-v-2-t-tom-1-890682/",
+    "coverPath": "data/covers/istoriya-zapadnoy-filosofii-v-2-t-tom-1-890682.jpg"
+  },
+  {
+    "title": "О науке и искусстве",
+    "author": "Леонардо да Винчи",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000890674/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/o-nauke-i-iskusstve-890674/",
+    "coverPath": "data/covers/o-nauke-i-iskusstve-890674.jpg"
+  },
+  {
+    "title": "Музыкальная поэтика",
+    "author": "Стравинский Игорь Фёдорович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000890680/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/muzykalnaya-poetika-890680/",
+    "coverPath": "data/covers/muzykalnaya-poetika-890680.jpg"
+  },
+  {
+    "title": "Искра жизни",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000847081/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/iskra-zhizni-847081/",
+    "coverPath": "data/covers/iskra-zhizni-847081.jpg"
+  },
+  {
+    "title": "Рассуждение о методе",
+    "author": "Декарт Рене",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000890049/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/rassuzhdenie-o-metode-890049/",
+    "coverPath": "data/covers/rassuzhdenie-o-metode-890049.jpg"
+  },
+  {
+    "title": "Пионовый фонарь",
+    "author": "Санъютэй Энтë",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000889980/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/pionovyy-fonar-889980/",
+    "coverPath": "data/covers/pionovyy-fonar-889980.jpg"
+  },
+  {
+    "title": "Самый богатый человек в Вавилоне",
+    "author": "Клейсон Джордж Самюэль",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000882003/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/samyy-bogatyy-chelovek-v-vavilone-882003/",
+    "coverPath": "data/covers/samyy-bogatyy-chelovek-v-vavilone-882003.jpg"
+  },
+  {
+    "title": "Капитанская дочка",
+    "author": "Пушкин Александр Сергеевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000864390/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/kapitanskaya-dochka-864390/",
+    "coverPath": "data/covers/kapitanskaya-dochka-864390.jpg"
+  },
+  {
+    "title": "На дне",
+    "author": "Горький Максим",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000889069/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/na-dne-889069/",
+    "coverPath": "data/covers/na-dne-889069.jpg"
+  },
+  {
+    "title": "Север и Юг",
+    "author": "Гаскелл Элизабет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000889549/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/sever-i-yug-889549/",
+    "coverPath": "data/covers/sever-i-yug-889549.jpg"
+  },
+  {
+    "title": "В стране водяных",
+    "author": "Акутагава Рюноскэ",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000889550/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/v-strane-vodyanykh-889550/",
+    "coverPath": "data/covers/v-strane-vodyanykh-889550.jpg"
+  },
+  {
+    "title": "Вокруг света в 80 дней",
+    "author": "Верн Жюль",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000889545/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vokrug-sveta-v-80-dney-889545/",
+    "coverPath": "data/covers/vokrug-sveta-v-80-dney-889545.jpg"
+  },
+  {
+    "title": "Собака Баскервилей. Долина Страха",
+    "author": "Дойл Артур Конан",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000889592/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/sobaka-baskerviley-dolina-strakha-889592/",
+    "coverPath": "data/covers/sobaka-baskerviley-dolina-strakha-889592.jpg"
+  },
+  {
+    "title": "Иуда Искариот",
+    "author": "Андреев Леонид Николаевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000889415/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/iuda-iskariot-889415/",
+    "coverPath": "data/covers/iuda-iskariot-889415.jpg"
+  },
+  {
+    "title": "Волоколамское шоссе",
+    "author": "Бек Александр Альфредович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000888561/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/volokolamskoe-shosse-888561/",
+    "coverPath": "data/covers/volokolamskoe-shosse-888561.jpg"
+  },
+  {
+    "title": "Автостопом по Галактике. Ресторан \"У конца Вселенной\"",
+    "author": "Адамс Дуглас",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830802/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/avtostopom-po-galaktike-restoran-u-kontsa-vselennoy-830802/",
+    "coverPath": "data/covers/avtostopom-po-galaktike-restoran-u-kontsa-vselennoy-830802.jpg"
+  },
+  {
+    "title": "Дети Дюны",
+    "author": "Герберт Фрэнк",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000889142/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/deti-dyuny-889142/",
+    "coverPath": "data/covers/deti-dyuny-889142.jpg"
+  },
+  {
+    "title": "Повесть о настоящем человеке",
+    "author": "Полевой Борис Николаевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000888994/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/povest-o-nastoyashchem-cheloveke-888994/",
+    "coverPath": "data/covers/povest-o-nastoyashchem-cheloveke-888994.jpg"
+  },
+  {
+    "title": "Вампиры",
+    "author": "Б. Олшеври",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000888981/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vampiry-888981/",
+    "coverPath": "data/covers/vampiry-888981.jpg"
+  },
+  {
+    "title": "Вишневый сад",
+    "author": "Чехов Антон Павлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000861897/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vishnevyy-sad-861897/",
+    "coverPath": "data/covers/vishnevyy-sad-861897.jpg"
+  },
+  {
+    "title": "Скорбь Сатаны",
+    "author": "Корелли Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000857457/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/skorb-satany-857457/",
+    "coverPath": "data/covers/skorb-satany-857457.jpg"
+  },
+  {
+    "title": "Искусство войны",
+    "author": "Сунь-цзы",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000857983/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/iskusstvo-voyny-857983/",
+    "coverPath": "data/covers/iskusstvo-voyny-857983.jpg"
+  },
+  {
+    "title": "Странник по звездам",
+    "author": "Лондон Джек",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000849437/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/strannik-po-zvezdam-849437/",
+    "coverPath": "data/covers/strannik-po-zvezdam-849437.jpg"
+  },
+  {
+    "title": "Мемуары гейши",
+    "author": "Голден Артур",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000836016/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/memuary-geyshi-836016/",
+    "coverPath": "data/covers/memuary-geyshi-836016.jpg"
+  },
+  {
+    "title": "Слово о полку Игореве",
+    "author": null,
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000888978/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/slovo-o-polku-igoreve-888978/",
+    "coverPath": "data/covers/slovo-o-polku-igoreve-888978.jpg"
+  },
+  {
+    "title": "Моя жизнь. Мои достижения",
+    "author": "Форд Генри",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000870689/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/moya-zhizn-moi-dostizheniya-870689/",
+    "coverPath": "data/covers/moya-zhizn-moi-dostizheniya-870689.jpg"
+  },
+  {
+    "title": "Лезвие бритвы",
+    "author": "Ефремов Иван Антонович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000888108/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/lezvie-britvy-888108/",
+    "coverPath": "data/covers/lezvie-britvy-888108.jpg"
+  },
+  {
+    "title": "Клуб самоубийц",
+    "author": "Стивенсон Роберт Льюис",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000856581/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/klub-samoubiyts-856581/",
+    "coverPath": "data/covers/klub-samoubiyts-856581.jpg"
+  },
+  {
+    "title": "Общество спектакля",
+    "author": "Дебор Ги",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000888563/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/obshchestvo-spektaklya-888563/",
+    "coverPath": "data/covers/obshchestvo-spektaklya-888563.jpg"
+  },
+  {
+    "title": "Кармилла",
+    "author": "Ле Фаню Джозеф Шеридан",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000888517/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/karmilla-888517/",
+    "coverPath": "data/covers/karmilla-888517.jpg"
+  },
+  {
+    "title": "Голод",
+    "author": "Гамсун Кнут",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000888521/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/golod-888521/",
+    "coverPath": "data/covers/golod-888521.jpg"
+  },
+  {
+    "title": "Загадка Cтарого Леса",
+    "author": "Буццати Дино",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000887942/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zagadka-ctarogo-lesa-887942/",
+    "coverPath": "data/covers/zagadka-ctarogo-lesa-887942.jpg"
+  },
+  {
+    "title": "На вилле",
+    "author": "Моэм Сомерсет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000887937/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/na-ville-887937/",
+    "coverPath": "data/covers/na-ville-887937.jpg"
+  },
+  {
+    "title": "Овод",
+    "author": "Войнич Этель Лилиан",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000863476/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ovod-863476/",
+    "coverPath": "data/covers/ovod-863476.jpg"
+  },
+  {
+    "title": "Маленькая принцесса",
+    "author": "Бернетт Фрэнсис Ходжсон",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000887936/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/malenkaya-printsessa-887936/",
+    "coverPath": "data/covers/malenkaya-printsessa-887936.jpg"
+  },
+  {
+    "title": "Снежная страна",
+    "author": "Кавабата Ясунари",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000887924/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/snezhnaya-strana-887924/",
+    "coverPath": "data/covers/snezhnaya-strana-887924.jpg"
+  },
+  {
+    "title": "Сто лет одиночества",
+    "author": "Гарсиа Маркес Габриэль",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830801/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/sto-let-odinochestva-830801/",
+    "coverPath": "data/covers/sto-let-odinochestva-830801.jpg"
+  },
+  {
+    "title": "История Рима",
+    "author": "Моммзен Теодор",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000886593/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/istoriya-rima-886593/",
+    "coverPath": "data/covers/istoriya-rima-886593.jpg"
+  },
+  {
+    "title": "Дочь времени",
+    "author": "Тэй Джозефина",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000886516/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/doch-vremeni-886516/",
+    "coverPath": "data/covers/doch-vremeni-886516.jpg"
+  },
+  {
+    "title": "Мысли",
+    "author": "Паскаль Блез",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000877949/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/mysli-877949/",
+    "coverPath": "data/covers/mysli-877949.jpg"
+  },
+  {
+    "title": "Под сенью сакуры",
+    "author": "Ихара Сайкаку",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000886555/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/pod-senyu-sakury-886555/",
+    "coverPath": "data/covers/pod-senyu-sakury-886555.jpg"
+  },
+  {
+    "title": "Человек-зверь",
+    "author": "Золя Эмиль",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000876188/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/chelovek-zver-876188/",
+    "coverPath": "data/covers/chelovek-zver-876188.jpg"
+  },
+  {
+    "title": "Человек-амфибия",
+    "author": "Беляев Александр Романович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000886300/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/chelovek-amfibiya-886300/",
+    "coverPath": "data/covers/chelovek-amfibiya-886300.jpg"
+  },
+  {
+    "title": "Записки из Мертвого дома",
+    "author": "Достоевский Федор Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000886391/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zapiski-iz-mertvogo-doma-886391/",
+    "coverPath": "data/covers/zapiski-iz-mertvogo-doma-886391.jpg"
+  },
+  {
+    "title": "Мадонна в черном",
+    "author": "Акутагава Рюноскэ",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000886234/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/madonna-v-chernom-886234/",
+    "coverPath": "data/covers/madonna-v-chernom-886234.jpg"
+  },
+  {
+    "title": "Унесенные ветром т. 2",
+    "author": "Митчелл Маргарет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000877011/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/unesennye-vetrom-t-2-877011/",
+    "coverPath": "data/covers/unesennye-vetrom-t-2-877011.jpg"
+  },
+  {
+    "title": "Унесенные ветром т. 1",
+    "author": "Митчелл Маргарет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000877010/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/unesennye-vetrom-t-1-877010/",
+    "coverPath": "data/covers/unesennye-vetrom-t-1-877010.jpg"
+  },
+  {
+    "title": "Таинственный сад (новый перевод)",
+    "author": "Бернетт Фрэнсис Ходжсон",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000886176/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/tainstvennyy-sad-novyy-perevod-886176/",
+    "coverPath": "data/covers/tainstvennyy-sad-novyy-perevod-886176.jpg"
+  },
+  {
+    "title": "Золотой телёнок",
+    "author": "Ильф Илья Арнольдович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000886122/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zolotoy-telyenok-886122/",
+    "coverPath": "data/covers/zolotoy-telyenok-886122.jpg"
+  },
+  {
+    "title": "Очарованный странник",
+    "author": "Лесков Николай Семенович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000885233/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ocharovannyy-strannik-885233/",
+    "coverPath": "data/covers/ocharovannyy-strannik-885233.jpg"
+  },
+  {
+    "title": "Молот ведьм",
+    "author": "Крамер Генрих",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000885107/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/molot-vedm-885107/",
+    "coverPath": "data/covers/molot-vedm-885107.jpg"
+  },
+  {
+    "title": "Человек для себя",
+    "author": "Фромм Эрих",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000885106/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/chelovek-dlya-sebya-885106/",
+    "coverPath": "data/covers/chelovek-dlya-sebya-885106.jpg"
+  },
+  {
+    "title": "Моби Дик, или Белый кит",
+    "author": "Мелвилл Герман",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000885105/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/mobi-dik-ili-belyy-kit-885105/",
+    "coverPath": "data/covers/mobi-dik-ili-belyy-kit-885105.jpg"
+  },
+  {
+    "title": "Никогде",
+    "author": "Гейман Нил",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000882970/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/nikogde-882970/",
+    "coverPath": "data/covers/nikogde-882970.jpg"
+  },
+  {
+    "title": "Критика практического разума",
+    "author": "Кант Иммануил",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000884084/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/kritika-prakticheskogo-razuma-884084/",
+    "coverPath": "data/covers/kritika-prakticheskogo-razuma-884084.jpg"
+  },
+  {
+    "title": "Агнес Грей",
+    "author": "Бронте Энн",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000883788/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/agnes-grey-883788/",
+    "coverPath": "data/covers/agnes-grey-883788.jpg"
+  },
+  {
+    "title": "Жизнь",
+    "author": "Мопассан Ги де",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000884156/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zhizn-884156/",
+    "coverPath": "data/covers/zhizn-884156.jpg"
+  },
+  {
+    "title": "Окаянные дни",
+    "author": "Бунин Иван Алексеевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000884158/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/okayannye-dni-884158/",
+    "coverPath": "data/covers/okayannye-dni-884158.jpg"
+  },
+  {
+    "title": "Воля к власти",
+    "author": "Ницше Фридрих Вильгельм",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000883059/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/volya-k-vlasti-883059/",
+    "coverPath": "data/covers/volya-k-vlasti-883059.jpg"
+  },
+  {
+    "title": "Общество потребления",
+    "author": "Бодрийяр Жан",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000883064/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/obshchestvo-potrebleniya-883064/",
+    "coverPath": "data/covers/obshchestvo-potrebleniya-883064.jpg"
+  },
+  {
+    "title": "Глотнуть воздуха",
+    "author": "Оруэлл Джордж",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000882828/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/glotnut-vozdukha-882828/",
+    "coverPath": "data/covers/glotnut-vozdukha-882828.jpg"
+  },
+  {
+    "title": "Ночной портье",
+    "author": "Шоу Ирвин",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000882830/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/nochnoy-porte-882830/",
+    "coverPath": "data/covers/nochnoy-porte-882830.jpg"
+  },
+  {
+    "title": "Беседы",
+    "author": "Эпиктет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000882827/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/besedy-882827/",
+    "coverPath": "data/covers/besedy-882827.jpg"
+  },
+  {
+    "title": "По ком звонит колокол",
+    "author": "Хемингуэй Эрнест",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000846351/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/po-kom-zvonit-kolokol-846351/",
+    "coverPath": "data/covers/po-kom-zvonit-kolokol-846351.jpg"
+  },
+  {
+    "title": "Учитель",
+    "author": "Бронте Шарлотта",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000882529/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/uchitel-882529/",
+    "coverPath": "data/covers/uchitel-882529.jpg"
+  },
+  {
+    "title": "На маяк",
+    "author": "Вулф Вирджиния",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000882586/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/na-mayak-882586/",
+    "coverPath": "data/covers/na-mayak-882586.jpg"
+  },
+  {
+    "title": "Мемуары",
+    "author": "Великая Екатерина II",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000882587/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/memuary-882587/",
+    "coverPath": "data/covers/memuary-882587.jpg"
+  },
+  {
+    "title": "Беседа с богом странствий",
+    "author": "Акутагава Рюноскэ",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000882513/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/beseda-s-bogom-stranstviy-882513/",
+    "coverPath": "data/covers/beseda-s-bogom-stranstviy-882513.jpg"
+  },
+  {
+    "title": "Доказательство бытия Бога",
+    "author": "Кант Иммануил",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000881964/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dokazatelstvo-bytiya-boga-881964/",
+    "coverPath": "data/covers/dokazatelstvo-bytiya-boga-881964.jpg"
+  },
+  {
+    "title": "Двадцать тысяч лье под водой",
+    "author": "Верн Жюль",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000881713/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dvadtsat-tysyach-le-pod-vodoy-881713/",
+    "coverPath": "data/covers/dvadtsat-tysyach-le-pod-vodoy-881713.jpg"
+  },
+  {
+    "title": "Поллианна. Поллианна вырастает",
+    "author": "Портер Элинор",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000881715/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/pollianna-pollianna-vyrastaet-881715/",
+    "coverPath": "data/covers/pollianna-pollianna-vyrastaet-881715.jpg"
+  },
+  {
+    "title": "Дюна",
+    "author": "Герберт Фрэнк",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000861259/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dyuna-861259/",
+    "coverPath": "data/covers/dyuna-861259.jpg"
+  },
+  {
+    "title": "Ярмарка тщеславия",
+    "author": "Теккерей Уильям Мейкпис",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000880024/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/yarmarka-tshcheslaviya-880024/",
+    "coverPath": "data/covers/yarmarka-tshcheslaviya-880024.jpg"
+  },
+  {
+    "title": "Анатомия человеческой деструктивности",
+    "author": "Фромм Эрих",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000881040/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/anatomiya-chelovecheskoy-destruktivnosti-881040/",
+    "coverPath": "data/covers/anatomiya-chelovecheskoy-destruktivnosti-881040.jpg"
+  },
+  {
+    "title": "Одноэтажная Америка",
+    "author": "Ильф Илья Арнольдович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000881251/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/odnoetazhnaya-amerika-881251/",
+    "coverPath": "data/covers/odnoetazhnaya-amerika-881251.jpg"
+  },
+  {
+    "title": "Франкенштейн, или Современный Прометей",
+    "author": "Шелли Мэри Уолстонкрафт",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000881253/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/frankenshteyn-ili-sovremennyy-prometey-881253/",
+    "coverPath": "data/covers/frankenshteyn-ili-sovremennyy-prometey-881253.jpg"
+  },
+  {
+    "title": "Одиссея",
+    "author": "Гомер",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000881039/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/odisseya-881039/",
+    "coverPath": "data/covers/odisseya-881039.jpg"
+  },
+  {
+    "title": "Сказания Древней Японии",
+    "author": "Садзанами Сандзин",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000881223/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/skazaniya-drevney-yaponii-881223/",
+    "coverPath": "data/covers/skazaniya-drevney-yaponii-881223.jpg"
+  },
+  {
+    "title": "Мертвая комната",
+    "author": "Коллинз Уилки",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000880025/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/mertvaya-komnata-880025/",
+    "coverPath": "data/covers/mertvaya-komnata-880025.jpg"
+  },
+  {
+    "title": "Приют Грез (новый перевод)",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000880554/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/priyut-grez-novyy-perevod-880554/",
+    "coverPath": "data/covers/priyut-grez-novyy-perevod-880554.jpg"
+  },
+  {
+    "title": "Гений и богиня",
+    "author": "Хаксли Олдос",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000880006/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/geniy-i-boginya-880006/",
+    "coverPath": "data/covers/geniy-i-boginya-880006.jpg"
+  },
+  {
+    "title": "Музыкофилия",
+    "author": "Сакс Оливер",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000879783/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/muzykofiliya-879783/",
+    "coverPath": "data/covers/muzykofiliya-879783.jpg"
+  },
+  {
+    "title": "Приключения Шерлока Холмса. Возвращение Шерлока Холмса",
+    "author": "Дойл Артур Конан",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000879354/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/priklyucheniya-sherloka-kholmsa-vozvrashchenie-sherloka-kholmsa-879354/",
+    "coverPath": "data/covers/priklyucheniya-sherloka-kholmsa-vozvrashchenie-sherloka-kholmsa-879354.jpg"
+  },
+  {
+    "title": "Кроткая",
+    "author": "Достоевский Федор Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000879293/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/krotkaya-879293/",
+    "coverPath": "data/covers/krotkaya-879293.jpg"
+  },
+  {
+    "title": "Гениальность и помешательство",
+    "author": "Ломброзо Чезаре",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000879357/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/genialnost-i-pomeshatelstvo-879357/",
+    "coverPath": "data/covers/genialnost-i-pomeshatelstvo-879357.jpg"
+  },
+  {
+    "title": "Таинственный сад",
+    "author": "Бернетт Фрэнсис Ходжсон",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000861676/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/tainstvennyy-sad-861676/",
+    "coverPath": "data/covers/tainstvennyy-sad-861676.jpg"
+  },
+  {
+    "title": "Гордость и предубеждение",
+    "author": "Остен Джейн",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000835519/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/gordost-i-predubezhdenie-835519/",
+    "coverPath": "data/covers/gordost-i-predubezhdenie-835519.jpg"
+  },
+  {
+    "title": "Золотой жук",
+    "author": "По Эдгар Аллан",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000877994/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zolotoy-zhuk-877994/",
+    "coverPath": "data/covers/zolotoy-zhuk-877994.jpg"
+  },
+  {
+    "title": "Богач, бедняк",
+    "author": "Шоу Ирвин",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000877989/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/bogach-bednyak-877989/",
+    "coverPath": "data/covers/bogach-bednyak-877989.jpg"
+  },
+  {
+    "title": "Мышление и речь",
+    "author": "Выготский Лев Семенович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000877944/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/myshlenie-i-rech-877944/",
+    "coverPath": "data/covers/myshlenie-i-rech-877944.jpg"
+  },
+  {
+    "title": "Первая любовь",
+    "author": "Тургенев Иван Сергеевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000877625/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/pervaya-lyubov-877625/",
+    "coverPath": "data/covers/pervaya-lyubov-877625.jpg"
+  },
+  {
+    "title": "Госпожа Бовари",
+    "author": "Флобер Гюстав",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000877626/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/gospozha-bovari-877626/",
+    "coverPath": "data/covers/gospozha-bovari-877626.jpg"
+  },
+  {
+    "title": "Дама с камелиями",
+    "author": "Дюма Александр",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000877628/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dama-s-kameliyami-877628/",
+    "coverPath": "data/covers/dama-s-kameliyami-877628.jpg"
+  },
+  {
+    "title": "Тибетская Книга мертвых",
+    "author": null,
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000876964/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/tibetskaya-kniga-mertvykh-876964/",
+    "coverPath": "data/covers/tibetskaya-kniga-mertvykh-876964.jpg"
+  },
+  {
+    "title": "Понять природу человека",
+    "author": "Адлер Альфред",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000876952/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ponyat-prirodu-cheloveka-876952/",
+    "coverPath": "data/covers/ponyat-prirodu-cheloveka-876952.jpg"
+  },
+  {
+    "title": "Ворота Расёмон",
+    "author": "Акутагава Рюноскэ",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000876895/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vorota-rasyemon-876895/",
+    "coverPath": "data/covers/vorota-rasyemon-876895.jpg"
+  },
+  {
+    "title": "Алиса в Стране чудес. Алиса в Зазеркалье",
+    "author": "Кэрролл Льюис",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000876532/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/alisa-v-strane-chudes-alisa-v-zazerkale-876532/",
+    "coverPath": "data/covers/alisa-v-strane-chudes-alisa-v-zazerkale-876532.jpg"
+  },
+  {
+    "title": "Доводы рассудка",
+    "author": "Остен Джейн",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000862325/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dovody-rassudka-862325/",
+    "coverPath": "data/covers/dovody-rassudka-862325.jpg"
+  },
+  {
+    "title": "Самоубийство",
+    "author": "Дюркгейм Эмиль",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000876529/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/samoubiystvo-876529/",
+    "coverPath": "data/covers/samoubiystvo-876529.jpg"
+  },
+  {
+    "title": "Дживс, Вы - гений!",
+    "author": "Вудхаус Пелам Гренвилл",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000876115/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dzhivs-vy-geniy-876115/",
+    "coverPath": "data/covers/dzhivs-vy-geniy-876115.jpg"
+  },
+  {
+    "title": "Колыбель для кошки",
+    "author": "Воннегут К.",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830800/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/kolybel-dlya-koshki-830800/",
+    "coverPath": "data/covers/kolybel-dlya-koshki-830800.jpg"
+  },
+  {
+    "title": "Уолден, или Жизнь в лесу",
+    "author": "Торо Генри Дэвид",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000876111/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/uolden-ili-zhizn-v-lesu-876111/",
+    "coverPath": "data/covers/uolden-ili-zhizn-v-lesu-876111.jpg"
+  },
+  {
+    "title": "Агрессия, или Так называемое зло",
+    "author": "Лоренц Конрад",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000875666/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/agressiya-ili-tak-nazyvaemoe-zlo-875666/",
+    "coverPath": "data/covers/agressiya-ili-tak-nazyvaemoe-zlo-875666.jpg"
+  },
+  {
+    "title": "Гамлет. Макбет",
+    "author": "Шекспир Уильям",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000875665/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/gamlet-makbet-875665/",
+    "coverPath": "data/covers/gamlet-makbet-875665.jpg"
+  },
+  {
+    "title": "Бегство от свободы",
+    "author": "Фромм Эрих",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000841288/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/begstvo-ot-svobody-841288/",
+    "coverPath": "data/covers/begstvo-ot-svobody-841288.jpg"
+  },
+  {
+    "title": "Машина времени. Человек-невидимка",
+    "author": "Уэллс Герберт Джордж",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000875654/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/mashina-vremeni-chelovek-nevidimka-875654/",
+    "coverPath": "data/covers/mashina-vremeni-chelovek-nevidimka-875654.jpg"
+  },
+  {
+    "title": "Великий Гэтсби",
+    "author": "Фицджеральд Фрэнсис Скотт",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000833464/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/velikiy-getsbi-833464/",
+    "coverPath": "data/covers/velikiy-getsbi-833464.jpg"
+  },
+  {
+    "title": "Записки врача",
+    "author": "Вересаев Викентий Викентьевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000875655/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zapiski-vracha-875655/",
+    "coverPath": "data/covers/zapiski-vracha-875655.jpg"
+  },
+  {
+    "title": "Введение в психоанализ",
+    "author": "Фрейд Зигмунд",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000860939/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vvedenie-v-psikhoanaliz-860939/",
+    "coverPath": "data/covers/vvedenie-v-psikhoanaliz-860939.jpg"
+  },
+  {
+    "title": "Жестокий век",
+    "author": "Калашников Исай Калистратович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000875050/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zhestokiy-vek-875050/",
+    "coverPath": "data/covers/zhestokiy-vek-875050.jpg"
+  },
+  {
+    "title": "Книга пяти колец",
+    "author": "Миямото Мусаси",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000873339/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/kniga-pyati-kolets-873339/",
+    "coverPath": "data/covers/kniga-pyati-kolets-873339.jpg"
+  },
+  {
+    "title": "Белая гвардия",
+    "author": "Булгаков Михаил Афанасьевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000875037/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/belaya-gvardiya-875037/",
+    "coverPath": "data/covers/belaya-gvardiya-875037.jpg"
+  },
+  {
+    "title": "Возвращение в дивный новый мир",
+    "author": "Хаксли Олдос",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000875028/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vozvrashchenie-v-divnyy-novyy-mir-875028/",
+    "coverPath": "data/covers/vozvrashchenie-v-divnyy-novyy-mir-875028.jpg"
+  },
+  {
+    "title": "Черный монах",
+    "author": "Чехов Антон Павлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000875027/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/chernyy-monakh-875027/",
+    "coverPath": "data/covers/chernyy-monakh-875027.jpg"
+  },
+  {
+    "title": "Слово живое и мертвое",
+    "author": "Галь Нора",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000875009/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/slovo-zhivoe-i-mertvoe-875009/",
+    "coverPath": "data/covers/slovo-zhivoe-i-mertvoe-875009.jpg"
+  },
+  {
+    "title": "Тени в раю",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000874373/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/teni-v-rayu-874373/",
+    "coverPath": "data/covers/teni-v-rayu-874373.jpg"
+  },
+  {
+    "title": "Нортенгерское аббатство",
+    "author": "Остен Джейн",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000874199/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/nortengerskoe-abbatstvo-874199/",
+    "coverPath": "data/covers/nortengerskoe-abbatstvo-874199.jpg"
+  },
+  {
+    "title": "Письмо незнакомки",
+    "author": "Цвейг Стефан",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000874300/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/pismo-neznakomki-874300/",
+    "coverPath": "data/covers/pismo-neznakomki-874300.jpg"
+  },
+  {
+    "title": "Детство. Отрочество. Юность",
+    "author": "Толстой Лев Николаевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000874198/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/detstvo-otrochestvo-yunost-874198/",
+    "coverPath": "data/covers/detstvo-otrochestvo-yunost-874198.jpg"
+  },
+  {
+    "title": "Дао Дэ Цзин",
+    "author": "Лао-цзы",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000874192/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dao-de-tszin-874192/",
+    "coverPath": "data/covers/dao-de-tszin-874192.jpg"
+  },
+  {
+    "title": "Время - деньги. Автобиография",
+    "author": "Франклин Бенджамин",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000874297/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vremya-dengi-avtobiografiya-874297/",
+    "coverPath": "data/covers/vremya-dengi-avtobiografiya-874297.jpg"
+  },
+  {
+    "title": "Раковый корпус",
+    "author": "Солженицын Александр Исаевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000873468/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/rakovyy-korpus-873468/",
+    "coverPath": "data/covers/rakovyy-korpus-873468.jpg"
+  },
+  {
+    "title": "Как любить ребенка",
+    "author": "Корчак Януш",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000873494/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/kak-lyubit-rebenka-873494/",
+    "coverPath": "data/covers/kak-lyubit-rebenka-873494.jpg"
+  },
+  {
+    "title": "Игра в бисер",
+    "author": "Гессе Герман",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000840825/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/igra-v-biser-840825/",
+    "coverPath": "data/covers/igra-v-biser-840825.jpg"
+  },
+  {
+    "title": "Отель с привидениями",
+    "author": "Коллинз Уилки",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000873493/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/otel-s-privideniyami-873493/",
+    "coverPath": "data/covers/otel-s-privideniyami-873493.jpg"
+  },
+  {
+    "title": "Наука побеждать",
+    "author": "Суворов Александр Васильевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000873925/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/nauka-pobezhdat-873925/",
+    "coverPath": "data/covers/nauka-pobezhdat-873925.jpg"
+  },
+  {
+    "title": "Хорошие жены (новый перевод)",
+    "author": "Олкотт Луиза Мэй",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000872117/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/khoroshie-zheny-novyy-perevod-872117/",
+    "coverPath": "data/covers/khoroshie-zheny-novyy-perevod-872117.jpg"
+  },
+  {
+    "title": "Возлюби ближнего своего",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000873414/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vozlyubi-blizhnego-svoego-873414/",
+    "coverPath": "data/covers/vozlyubi-blizhnego-svoego-873414.jpg"
+  },
+  {
+    "title": "Политика",
+    "author": "Аристотель",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000872910/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/politika-872910/",
+    "coverPath": "data/covers/politika-872910.jpg"
+  },
+  {
+    "title": "Государство и революция",
+    "author": "Ленин Владимир Ильич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000872819/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/gosudarstvo-i-revolyutsiya-872819/",
+    "coverPath": "data/covers/gosudarstvo-i-revolyutsiya-872819.jpg"
+  },
+  {
+    "title": "Тюремная исповедь",
+    "author": "Уайльд Оскар",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000872579/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/tyuremnaya-ispoved-872579/",
+    "coverPath": "data/covers/tyuremnaya-ispoved-872579.jpg"
+  },
+  {
+    "title": "Война миров",
+    "author": "Уэллс Герберт Джордж",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000871156/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/voyna-mirov-871156/",
+    "coverPath": "data/covers/voyna-mirov-871156.jpg"
+  },
+  {
+    "title": "Искусство быть",
+    "author": "Фромм Эрих",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000871734/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/iskusstvo-byt-871734/",
+    "coverPath": "data/covers/iskusstvo-byt-871734.jpg"
+  },
+  {
+    "title": "Ромео и Джульетта. Отелло",
+    "author": "Шекспир Уильям",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000871733/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/romeo-i-dzhuletta-otello-871733/",
+    "coverPath": "data/covers/romeo-i-dzhuletta-otello-871733.jpg"
+  },
+  {
+    "title": "Путешествие к центру Земли",
+    "author": "Верн Жюль",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000871730/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/puteshestvie-k-tsentru-zemli-871730/",
+    "coverPath": "data/covers/puteshestvie-k-tsentru-zemli-871730.jpg"
+  },
+  {
+    "title": "Дамское счастье",
+    "author": "Золя Эмиль",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000871729/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/damskoe-schaste-871729/",
+    "coverPath": "data/covers/damskoe-schaste-871729.jpg"
+  },
+  {
+    "title": "Волшебная гора",
+    "author": "Манн Томас",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000871153/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/volshebnaya-gora-871153/",
+    "coverPath": "data/covers/volshebnaya-gora-871153.jpg"
+  },
+  {
+    "title": "Маленькие женщины (новый перевод)",
+    "author": "Олкотт Луиза Мэй",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000871630/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/malenkie-zhenshchiny-novyy-perevod-871630/",
+    "coverPath": "data/covers/malenkie-zhenshchiny-novyy-perevod-871630.jpg"
+  },
+  {
+    "title": "Бедные люди",
+    "author": "Достоевский Федор Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000870708/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/bednye-lyudi-870708/",
+    "coverPath": "data/covers/bednye-lyudi-870708.jpg"
+  },
+  {
+    "title": "Дом с привидениями",
+    "author": "Вулф Вирджиния",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000871159/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dom-s-privideniyami-871159/",
+    "coverPath": "data/covers/dom-s-privideniyami-871159.jpg"
+  },
+  {
+    "title": "Обломов",
+    "author": "Гончаров Иван Александрович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000867319/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/oblomov-867319/",
+    "coverPath": "data/covers/oblomov-867319.jpg"
+  },
+  {
+    "title": "Великая шахматная доска",
+    "author": "Бжезинский Збигнев",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000870746/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/velikaya-shakhmatnaya-doska-870746/",
+    "coverPath": "data/covers/velikaya-shakhmatnaya-doska-870746.jpg"
+  },
+  {
+    "title": "Илиада",
+    "author": "Гомер",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000870786/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/iliada-870786/",
+    "coverPath": "data/covers/iliada-870786.jpg"
+  },
+  {
+    "title": "Этюд в багровых тонах. Знак четырех. Записки о Шерлоке Холмсе",
+    "author": "Дойл Артур Конан",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000870784/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/etyud-v-bagrovykh-tonakh-znak-chetyrekh-zapiski-o-sherloke-kholmse-870784/",
+    "coverPath": "data/covers/etyud-v-bagrovykh-tonakh-znak-chetyrekh-zapiski-o-sherloke-kholmse-870784.jpg"
+  },
+  {
+    "title": "Узорный покров",
+    "author": "Моэм Сомерсет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000865763/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/uzornyy-pokrov-865763/",
+    "coverPath": "data/covers/uzornyy-pokrov-865763.jpg"
+  },
+  {
+    "title": "Анна Каренина",
+    "author": "Толстой Лев Николаевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000869954/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/anna-karenina-869954/",
+    "coverPath": "data/covers/anna-karenina-869954.jpg"
+  },
+  {
+    "title": "Да здравствует фикус!",
+    "author": "Оруэлл Джордж",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000869932/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/da-zdravstvuet-fikus-869932/",
+    "coverPath": "data/covers/da-zdravstvuet-fikus-869932.jpg"
+  },
+  {
+    "title": "Гроза. Бесприданница",
+    "author": "Островский Александр Николаевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000869953/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/groza-bespridannitsa-869953/",
+    "coverPath": "data/covers/groza-bespridannitsa-869953.jpg"
+  },
+  {
+    "title": "Бедная Лиза",
+    "author": "Карамзин Николай Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000869951/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/bednaya-liza-869951/",
+    "coverPath": "data/covers/bednaya-liza-869951.jpg"
+  },
+  {
+    "title": "От Руси к России",
+    "author": "Гумилев Лев Николаевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000870022/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ot-rusi-k-rossii-870022/",
+    "coverPath": "data/covers/ot-rusi-k-rossii-870022.jpg"
+  },
+  {
+    "title": "Последний день приговоренного к смерти",
+    "author": "Гюго Виктор",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000869503/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/posledniy-den-prigovorennogo-k-smerti-869503/",
+    "coverPath": "data/covers/posledniy-den-prigovorennogo-k-smerti-869503.jpg"
+  },
+  {
+    "title": "Я и Оно",
+    "author": "Фрейд Зигмунд",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000869504/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ya-i-ono-869504/",
+    "coverPath": "data/covers/ya-i-ono-869504.jpg"
+  },
+  {
+    "title": "Незнакомка из Уайлдфелл-Холла",
+    "author": "Бронте Энн",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000869563/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/neznakomka-iz-uayldfell-kholla-869563/",
+    "coverPath": "data/covers/neznakomka-iz-uayldfell-kholla-869563.jpg"
+  },
+  {
+    "title": "Империализм, как высшая стадия капитализма",
+    "author": "Ленин Владимир Ильич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000869006/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/imperializm-kak-vysshaya-stadiya-kapitalizma-869006/",
+    "coverPath": "data/covers/imperializm-kak-vysshaya-stadiya-kapitalizma-869006.jpg"
+  },
+  {
+    "title": "Записки сумасшедшего",
+    "author": "Гоголь Николай Васильевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000869033/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zapiski-sumasshedshego-869033/",
+    "coverPath": "data/covers/zapiski-sumasshedshego-869033.jpg"
+  },
+  {
+    "title": "Час Быка",
+    "author": "Ефремов Иван Антонович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000869003/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/chas-byka-869003/",
+    "coverPath": "data/covers/chas-byka-869003.jpg"
+  },
+  {
+    "title": "Ворота Расёмон",
+    "author": "Акутагава Рюноскэ",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000865764/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vorota-rasyemon-865764/",
+    "coverPath": "data/covers/vorota-rasyemon-865764.jpg"
+  },
+  {
+    "title": "Этика",
+    "author": "Аристотель",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000869031/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/etika-869031/",
+    "coverPath": "data/covers/etika-869031.jpg"
+  },
+  {
+    "title": "Беседы и суждения",
+    "author": "Конфуций",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000868495/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/besedy-i-suzhdeniya-868495/",
+    "coverPath": "data/covers/besedy-i-suzhdeniya-868495.jpg"
+  },
+  {
+    "title": "О дивный новый мир",
+    "author": "Хаксли Олдос",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830183/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/o-divnyy-novyy-mir-830183/",
+    "coverPath": "data/covers/o-divnyy-novyy-mir-830183.jpg"
+  },
+  {
+    "title": "Нравственные письма к Луцилию",
+    "author": "Сенека Луций Анней",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000868398/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/nravstvennye-pisma-k-lutsiliyu-868398/",
+    "coverPath": "data/covers/nravstvennye-pisma-k-lutsiliyu-868398.jpg"
+  },
+  {
+    "title": "Милый друг",
+    "author": "Мопассан Ги де",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000867740/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/milyy-drug-867740/",
+    "coverPath": "data/covers/milyy-drug-867740.jpg"
+  },
+  {
+    "title": "Критика чистого разума",
+    "author": "Кант Иммануил",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000867722/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/kritika-chistogo-razuma-867722/",
+    "coverPath": "data/covers/kritika-chistogo-razuma-867722.jpg"
+  },
+  {
+    "title": "Искусство побеждать в спорах. Мысли",
+    "author": "Шопенгауэр Артур",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000867720/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/iskusstvo-pobezhdat-v-sporakh-mysli-867720/",
+    "coverPath": "data/covers/iskusstvo-pobezhdat-v-sporakh-mysli-867720.jpg"
+  },
+  {
+    "title": "Дочь священника",
+    "author": "Оруэлл Джордж",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000866975/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/doch-svyashchennika-866975/",
+    "coverPath": "data/covers/doch-svyashchennika-866975.jpg"
+  },
+  {
+    "title": "Шагреневая кожа",
+    "author": "Бальзак Оноре де",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000866976/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/shagrenevaya-kozha-866976/",
+    "coverPath": "data/covers/shagrenevaya-kozha-866976.jpg"
+  },
+  {
+    "title": "Маленькие мужчины",
+    "author": "Олкотт Луиза Мэй",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000866573/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/malenkie-muzhchiny-866573/",
+    "coverPath": "data/covers/malenkie-muzhchiny-866573.jpg"
+  },
+  {
+    "title": "Своя комната",
+    "author": "Вулф Вирджиния",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000866570/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/svoya-komnata-866570/",
+    "coverPath": "data/covers/svoya-komnata-866570.jpg"
+  },
+  {
+    "title": "Метафизика",
+    "author": "Аристотель",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000866575/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/metafizika-866575/",
+    "coverPath": "data/covers/metafizika-866575.jpg"
+  },
+  {
+    "title": "Призрак дома на холме",
+    "author": "Джексон Ширли",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000862324/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/prizrak-doma-na-kholme-862324/",
+    "coverPath": "data/covers/prizrak-doma-na-kholme-862324.jpg"
+  },
+  {
+    "title": "Острие бритвы",
+    "author": "Моэм Сомерсет",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000844564/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ostrie-britvy-844564/",
+    "coverPath": "data/covers/ostrie-britvy-844564.jpg"
+  },
+  {
+    "title": "Мастер и Маргарита",
+    "author": "Булгаков Михаил Афанасьевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000840123/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/master-i-margarita-840123/",
+    "coverPath": "data/covers/master-i-margarita-840123.jpg"
+  },
+  {
+    "title": "Психология народов и масс",
+    "author": "Лебон Гюстав",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000847731/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/psikhologiya-narodov-i-mass-847731/",
+    "coverPath": "data/covers/psikhologiya-narodov-i-mass-847731.jpg"
+  },
+  {
+    "title": "Приют Грез",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000861895/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/priyut-grez-861895/",
+    "coverPath": "data/covers/priyut-grez-861895.jpg"
+  },
+  {
+    "title": "Маленькая хозяйка Большого дома",
+    "author": "Лондон Джек",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000840586/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/malenkaya-khozyayka-bolshogo-doma-840586/",
+    "coverPath": "data/covers/malenkaya-khozyayka-bolshogo-doma-840586.jpg"
+  },
+  {
+    "title": "Зеленая миля",
+    "author": "Кинг Стивен",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830220/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zelenaya-milya-830220/",
+    "coverPath": "data/covers/zelenaya-milya-830220.jpg"
+  },
+  {
+    "title": "Праздник, который всегда с тобой",
+    "author": "Хемингуэй Эрнест",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000832493/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/prazdnik-kotoryy-vsegda-s-toboy-832493/",
+    "coverPath": "data/covers/prazdnik-kotoryy-vsegda-s-toboy-832493.jpg"
+  },
+  {
+    "title": "Трое в лодке, не считая собаки",
+    "author": "Джером Клапка Джером",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000864967/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/troe-v-lodke-ne-schitaya-sobaki-864967/",
+    "coverPath": "data/covers/troe-v-lodke-ne-schitaya-sobaki-864967.jpg"
+  },
+  {
+    "title": "Дары волхвов",
+    "author": "Генри О.",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000864966/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dary-volkhvov-864966/",
+    "coverPath": "data/covers/dary-volkhvov-864966.jpg"
+  },
+  {
+    "title": "Дракула",
+    "author": "Стокер Брэм",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000864965/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/drakula-864965/",
+    "coverPath": "data/covers/drakula-864965.jpg"
+  },
+  {
+    "title": "Государь. О военном искусстве",
+    "author": "Макиавелли Никколо",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000848338/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/gosudar-o-voennom-iskusstve-848338/",
+    "coverPath": "data/covers/gosudar-o-voennom-iskusstve-848338.jpg"
+  },
+  {
+    "title": "Сияние",
+    "author": "Кинг Стивен",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000855811/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/siyanie-855811/",
+    "coverPath": "data/covers/siyanie-855811.jpg"
+  },
+  {
+    "title": "Прощай, оружие!",
+    "author": "Хемингуэй Эрнест",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000836087/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/proshchay-oruzhie-836087/",
+    "coverPath": "data/covers/proshchay-oruzhie-836087.jpg"
+  },
+  {
+    "title": "Божественная Комедия",
+    "author": "Алигьери Данте",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000850002/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/bozhestvennaya-komediya-850002/",
+    "coverPath": "data/covers/bozhestvennaya-komediya-850002.jpg"
+  },
+  {
+    "title": "Призрак Оперы",
+    "author": "Леру Гастон",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000840511/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/prizrak-opery-840511/",
+    "coverPath": "data/covers/prizrak-opery-840511.jpg"
+  },
+  {
+    "title": "Чувство и чувствительность",
+    "author": "Остен Джейн",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000864392/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/chuvstvo-i-chuvstvitelnost-864392/",
+    "coverPath": "data/covers/chuvstvo-i-chuvstvitelnost-864392.jpg"
+  },
+  {
+    "title": "Станция на горизонте",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000864391/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/stantsiya-na-gorizonte-864391/",
+    "coverPath": "data/covers/stantsiya-na-gorizonte-864391.jpg"
+  },
+  {
+    "title": "Мессия Дюны",
+    "author": "Герберт Фрэнк",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000864021/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/messiya-dyuny-864021/",
+    "coverPath": "data/covers/messiya-dyuny-864021.jpg"
+  },
+  {
+    "title": "Подросток",
+    "author": "Достоевский Федор Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000864155/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/podrostok-864155/",
+    "coverPath": "data/covers/podrostok-864155.jpg"
+  },
+  {
+    "title": "Маленькие женщины",
+    "author": "Олкотт Луиза Мэй",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000856558/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/malenkie-zhenshchiny-856558/",
+    "coverPath": "data/covers/malenkie-zhenshchiny-856558.jpg"
+  },
+  {
+    "title": "Дама с собачкой",
+    "author": "Чехов Антон Павлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000863459/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/dama-s-sobachkoy-863459/",
+    "coverPath": "data/covers/dama-s-sobachkoy-863459.jpg"
+  },
+  {
+    "title": "Человек, который принял жену за шляпу",
+    "author": "Сакс Оливер",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000842659/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/chelovek-kotoryy-prinyal-zhenu-za-shlyapu-842659/",
+    "coverPath": "data/covers/chelovek-kotoryy-prinyal-zhenu-za-shlyapu-842659.jpg"
+  },
+  {
+    "title": "Некрономикон. Книга запретных тайн",
+    "author": "Лавкрафт Говард Филлипс",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000863461/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/nekronomikon-kniga-zapretnykh-tayn-863461/",
+    "coverPath": "data/covers/nekronomikon-kniga-zapretnykh-tayn-863461.jpg"
+  },
+  {
+    "title": "Замок",
+    "author": "Кафка Франц",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000836086/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zamok-836086/",
+    "coverPath": "data/covers/zamok-836086.jpg"
+  },
+  {
+    "title": "Стоик",
+    "author": "Драйзер Теодор",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000863167/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/stoik-863167/",
+    "coverPath": "data/covers/stoik-863167.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "Оруэлл Джордж",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830180/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/1984-830180/",
+    "coverPath": "data/covers/1984-830180.jpg"
+  },
+  {
+    "title": "Психология масс и анализ человеческого \"я\"",
+    "author": "Фрейд Зигмунд",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000862984/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/psikhologiya-mass-i-analiz-chelovecheskogo-ya-862984/",
+    "coverPath": "data/covers/psikhologiya-mass-i-analiz-chelovecheskogo-ya-862984.jpg"
+  },
+  {
+    "title": "Кентервильское привидение",
+    "author": "Уайльд Оскар",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000862983/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/kentervilskoe-prividenie-862983/",
+    "coverPath": "data/covers/kentervilskoe-prividenie-862983.jpg"
+  },
+  {
+    "title": "Странная история доктора Джекила и мистера Хайда",
+    "author": "Стивенсон Роберт Льюис",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000862326/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/strannaya-istoriya-doktora-dzhekila-i-mistera-khayda-862326/",
+    "coverPath": "data/covers/strannaya-istoriya-doktora-dzhekila-i-mistera-khayda-862326.jpg"
+  },
+  {
+    "title": "Униженные и оскорбленные",
+    "author": "Достоевский Федор Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000861894/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/unizhennye-i-oskorblennye-861894/",
+    "coverPath": "data/covers/unizhennye-i-oskorblennye-861894.jpg"
+  },
+  {
+    "title": "Мертвые души",
+    "author": "Гоголь Николай Васильевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000850462/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/mertvye-dushi-850462/",
+    "coverPath": "data/covers/mertvye-dushi-850462.jpg"
+  },
+  {
+    "title": "Феномены мозга",
+    "author": "Бехтерев Владимир Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000861677/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/fenomeny-mozga-861677/",
+    "coverPath": "data/covers/fenomeny-mozga-861677.jpg"
+  },
+  {
+    "title": "Большие надежды",
+    "author": "Диккенс Чарльз",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000861675/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/bolshie-nadezhdy-861675/",
+    "coverPath": "data/covers/bolshie-nadezhdy-861675.jpg"
+  },
+  {
+    "title": "Процесс",
+    "author": "Кафка Франц",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000841289/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/protsess-841289/",
+    "coverPath": "data/covers/protsess-841289.jpg"
+  },
+  {
+    "title": "Бойцовский клуб",
+    "author": "Паланик Чак",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000832490/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/boytsovskiy-klub-832490/",
+    "coverPath": "data/covers/boytsovskiy-klub-832490.jpg"
+  },
+  {
+    "title": "Град обреченный",
+    "author": "Стругацкий Аркадий Натанович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000860849/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/grad-obrechennyy-860849/",
+    "coverPath": "data/covers/grad-obrechennyy-860849.jpg"
+  },
+  {
+    "title": "Остров",
+    "author": "Хаксли Олдос",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000860297/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ostrov-860297/",
+    "coverPath": "data/covers/ostrov-860297.jpg"
+  },
+  {
+    "title": "Мифы Ктулху",
+    "author": "Лавкрафт Говард Филлипс",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000847076/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/mify-ktulkhu-847076/",
+    "coverPath": "data/covers/mify-ktulkhu-847076.jpg"
+  },
+  {
+    "title": "Идеал",
+    "author": "Рэнд Айн",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000860494/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ideal-860494/",
+    "coverPath": "data/covers/ideal-860494.jpg"
+  },
+  {
+    "title": "Мы",
+    "author": "Замятин Евгений Иванович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000838830/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/my-838830/",
+    "coverPath": "data/covers/my-838830.jpg"
+  },
+  {
+    "title": "Хорошие жены",
+    "author": "Олкотт Луиза Мэй",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000860289/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/khoroshie-zheny-860289/",
+    "coverPath": "data/covers/khoroshie-zheny-860289.jpg"
+  },
+  {
+    "title": "Собор Парижской Богоматери",
+    "author": "Гюго Виктор",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000859537/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/sobor-parizhskoy-bogomateri-859537/",
+    "coverPath": "data/covers/sobor-parizhskoy-bogomateri-859537.jpg"
+  },
+  {
+    "title": "Земля обетованная",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000858605/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zemlya-obetovannaya-858605/",
+    "coverPath": "data/covers/zemlya-obetovannaya-858605.jpg"
+  },
+  {
+    "title": "Ночь нежна",
+    "author": "Фицджеральд Фрэнсис Скотт",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000837186/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/noch-nezhna-837186/",
+    "coverPath": "data/covers/noch-nezhna-837186.jpg"
+  },
+  {
+    "title": "Улитка на склоне",
+    "author": "Стругацкий Аркадий Натанович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000858606/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ulitka-na-sklone-858606/",
+    "coverPath": "data/covers/ulitka-na-sklone-858606.jpg"
+  },
+  {
+    "title": "Одиннадцать минут",
+    "author": "Коэльо Пауло",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000858325/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/odinnadtsat-minut-858325/",
+    "coverPath": "data/covers/odinnadtsat-minut-858325.jpg"
+  },
+  {
+    "title": "Идиот",
+    "author": "Достоевский Федор Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000851309/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/idiot-851309/",
+    "coverPath": "data/covers/idiot-851309.jpg"
+  },
+  {
+    "title": "Бесы",
+    "author": "Достоевский Федор Михайлович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000857345/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/besy-857345/",
+    "coverPath": "data/covers/besy-857345.jpg"
+  },
+  {
+    "title": "Человек, который смеется",
+    "author": "Гюго Виктор",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000857344/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/chelovek-kotoryy-smeetsya-857344/",
+    "coverPath": "data/covers/chelovek-kotoryy-smeetsya-857344.jpg"
+  },
+  {
+    "title": "Этот неподражаемый Дживс!",
+    "author": "Вудхаус Пелам Гренвилл",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000857998/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/etot-nepodrazhaemyy-dzhivs-857998/",
+    "coverPath": "data/covers/etot-nepodrazhaemyy-dzhivs-857998.jpg"
+  },
+  {
+    "title": "Мертвая зона",
+    "author": "Кинг Стивен",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000857980/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/mertvaya-zona-857980/",
+    "coverPath": "data/covers/mertvaya-zona-857980.jpg"
+  },
+  {
+    "title": "Эмма",
+    "author": "Остен Джейн",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000857346/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/emma-857346/",
+    "coverPath": "data/covers/emma-857346.jpg"
+  },
+  {
+    "title": "Автостопом по Галактике. Опять в путь",
+    "author": "Адамс Дуглас",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000856557/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/avtostopom-po-galaktike-opyat-v-put-856557/",
+    "coverPath": "data/covers/avtostopom-po-galaktike-opyat-v-put-856557.jpg"
+  },
+  {
+    "title": "Любовь во время чумы",
+    "author": "Гарсиа Маркес Габриэль",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000834264/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/lyubov-vo-vremya-chumy-834264/",
+    "coverPath": "data/covers/lyubov-vo-vremya-chumy-834264.jpg"
+  },
+  {
+    "title": "Сны Ктулху",
+    "author": "Лавкрафт Говард Филлипс",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000851030/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/sny-ktulkhu-851030/",
+    "coverPath": "data/covers/sny-ktulkhu-851030.jpg"
+  },
+  {
+    "title": "От Руси к России",
+    "author": "Гумилев Лев Николаевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000851691/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/ot-rusi-k-rossii-851691/",
+    "coverPath": "data/covers/ot-rusi-k-rossii-851691.jpg"
+  },
+  {
+    "title": "Обломов",
+    "author": "Гончаров Иван Александрович",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000851692/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/oblomov-851692/",
+    "coverPath": "data/covers/oblomov-851692.jpg"
+  },
+  {
+    "title": "По ту сторону добра и зла",
+    "author": "Ницше Фридрих Вильгельм",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000850493/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/po-tu-storonu-dobra-i-zla-850493/",
+    "coverPath": "data/covers/po-tu-storonu-dobra-i-zla-850493.jpg"
+  },
+  {
+    "title": "Пойди поставь сторожа",
+    "author": "Ли Харпер",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000848803/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/poydi-postav-storozha-848803/",
+    "coverPath": "data/covers/poydi-postav-storozha-848803.jpg"
+  },
+  {
+    "title": "Гэм",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000848337/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/gem-848337/",
+    "coverPath": "data/covers/gem-848337.jpg"
+  },
+  {
+    "title": "Галлюцинации",
+    "author": "Сакс Оливер",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000847734/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/gallyutsinatsii-847734/",
+    "coverPath": "data/covers/gallyutsinatsii-847734.jpg"
+  },
+  {
+    "title": "Возлюби ближнего своего",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000845789/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/vozlyubi-blizhnego-svoego-845789/",
+    "coverPath": "data/covers/vozlyubi-blizhnego-svoego-845789.jpg"
+  },
+  {
+    "title": "Письма к брату Тео",
+    "author": "Ван Гог Винсент",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000845790/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/pisma-k-bratu-teo-845790/",
+    "coverPath": "data/covers/pisma-k-bratu-teo-845790.jpg"
+  },
+  {
+    "title": "Жажда жизни",
+    "author": "Стоун Ирвинг",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000845235/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/zhazhda-zhizni-845235/",
+    "coverPath": "data/covers/zhazhda-zhizni-845235.jpg"
+  },
+  {
+    "title": "Собачье сердце",
+    "author": "Булгаков Михаил Афанасьевич",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000842085/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/sobache-serdtse-842085/",
+    "coverPath": "data/covers/sobache-serdtse-842085.jpg"
+  },
+  {
+    "title": "Тени в раю",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000839408/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/teni-v-rayu-839408/",
+    "coverPath": "data/covers/teni-v-rayu-839408.jpg"
+  },
+  {
+    "title": "Ребекка",
+    "author": "Дюморье Дафна",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000835083/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/rebekka-835083/",
+    "coverPath": "data/covers/rebekka-835083.jpg"
+  },
+  {
+    "title": "Грозовой перевал",
+    "author": "Бронте Эмили",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000835098/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/grozovoy-pereval-835098/",
+    "coverPath": "data/covers/grozovoy-pereval-835098.jpg"
+  },
+  {
+    "title": "Три товарища",
+    "author": "Ремарк Эрих Мария",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000830185/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/tri-tovarishcha-830185/",
+    "coverPath": "data/covers/tri-tovarishcha-830185.jpg"
+  },
+  {
+    "title": "Письма незнакомке",
+    "author": "Моруа Андре",
+    "coverUrl": "https://cdn.ast.ru/v2/ASE000000000834010/COVER/cover1__w600.jpg",
+    "url": "https://ast.ru/book/pisma-neznakomke-834010/",
+    "coverPath": "data/covers/pisma-neznakomke-834010.jpg"
+  }
+]

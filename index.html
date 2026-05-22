@@ -1,0 +1,565 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <title>Угадай книгу</title>
+    <style>
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        -webkit-tap-highlight-color: transparent;
+      }
+
+      html {
+        height: 100%;
+      }
+
+      body {
+        height: 100dvh;
+        overflow: hidden;
+        overscroll-behavior: none;
+        background: #111;
+        color: #ddd;
+        font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+        user-select: none;
+      }
+
+      /* ── game header ── */
+      .game-header {
+        flex-shrink: 0;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-top: 12px;
+        padding-bottom: 12px;
+      }
+      #game-stats {
+        font-size: 0.8rem;
+        color: #555;
+        min-width: 48px;
+      }
+      .game-header-title {
+        font-size: 0.8rem;
+        color: #666;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+      }
+      #mute-btn {
+        background: none;
+        border: none;
+        color: #555;
+        width: 36px;
+        height: 36px;
+        font-size: 1.1rem;
+        line-height: 1;
+        touch-action: manipulation;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      #mute-btn.muted {
+        text-decoration: line-through;
+      }
+
+      /* ── screens ── */
+      .screen {
+        display: none;
+        position: fixed;
+        inset: 0;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 16px;
+        padding: max(24px, env(safe-area-inset-top))
+          max(24px, env(safe-area-inset-right))
+          max(24px, env(safe-area-inset-bottom))
+          max(24px, env(safe-area-inset-left));
+      }
+      .screen.active {
+        display: flex;
+      }
+
+      /* ── start / end ── */
+      #start-screen h1,
+      #end-screen h2 {
+        font-size: 2rem;
+        font-weight: 700;
+        color: #fff;
+        text-align: center;
+      }
+      #start-screen p,
+      #end-screen p {
+        color: #555;
+        text-align: center;
+      }
+
+      /* ── game ── */
+      #game-screen {
+        padding: 0;
+        gap: 0;
+        justify-content: flex-start;
+      }
+
+      .game-top {
+        flex: 1;
+        min-height: 0;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+        padding-top: env(safe-area-inset-top, 0px);
+        padding-left: max(16px, env(safe-area-inset-left));
+        padding-right: max(16px, env(safe-area-inset-right));
+        padding-bottom: 8px;
+        overflow: hidden;
+      }
+
+      .question {
+        flex-shrink: 0;
+        font-size: 0.75rem;
+        color: #999;
+        text-align: center;
+        letter-spacing: 0.07em;
+        text-transform: uppercase;
+      }
+
+      /* ── cover ── */
+      .cover-outer {
+        flex: 1;
+        min-height: 0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: stretch;
+      }
+      .cover-inner {
+        position: relative;
+        height: 100%;
+        line-height: 0;
+      }
+      .cover-inner img {
+        height: 100%;
+        width: auto;
+        max-width: calc(100vw - 32px);
+        aspect-ratio: 2 / 3;
+        display: block;
+        border-radius: 8px;
+        box-shadow: 0 8px 40px rgba(0, 0, 0, 0.8);
+        object-fit: cover;
+      }
+      .cover-inner svg {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+      }
+      #title-mask {
+        fill: #ff00ff;
+      }
+      #title-mask.revealing {
+        transition: opacity 1.2s ease;
+      }
+
+      /* ── bottom controls ── */
+      .game-bottom {
+        flex-shrink: 0;
+        width: 100%;
+        height: calc(196px + max(16px, env(safe-area-inset-bottom)));
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        padding: 12px max(16px, env(safe-area-inset-right))
+          max(16px, env(safe-area-inset-bottom))
+          max(16px, env(safe-area-inset-left));
+        background: #111;
+      }
+
+      /* ── timer ── */
+      .timer-container {
+        position: relative;
+        width: 60px;
+        height: 60px;
+        flex-shrink: 0;
+      }
+      .timer-ring {
+        transform: rotate(-90deg);
+      }
+      .timer-bg {
+        fill: none;
+        stroke: #252525;
+        stroke-width: 7;
+      }
+      .timer-arc {
+        fill: none;
+        stroke-width: 7;
+        stroke-linecap: round;
+      }
+      #timer-num {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: #fff;
+      }
+
+      /* ── reveal ── */
+      #reveal-wrap {
+        width: 100%;
+        height: 52px;
+        text-align: center;
+        opacity: 0;
+        transition: opacity 0.5s ease;
+      }
+      #reveal-wrap.show {
+        opacity: 1;
+      }
+      #reveal-title {
+        font-size: 1.15rem;
+        font-weight: 700;
+        color: #fff;
+      }
+      #reveal-author {
+        margin-top: 3px;
+        font-size: 0.85rem;
+        color: #555;
+      }
+
+      /* ── buttons ── */
+      .btn-primary {
+        padding: 16px 48px;
+        font-size: 1.1rem;
+        font-weight: 700;
+        border: none;
+        border-radius: 16px;
+        background: #5b5ef4;
+        color: #fff;
+        touch-action: manipulation;
+      }
+      .btn-primary:active {
+        opacity: 0.75;
+      }
+
+      .btn-row {
+        display: flex;
+        gap: 10px;
+        width: 100%;
+      }
+      .btn-choice {
+        flex: 1;
+        padding: 15px 10px;
+        font-size: 1rem;
+        font-weight: 700;
+        border: none;
+        border-radius: 16px;
+        color: #fff;
+        touch-action: manipulation;
+      }
+      .btn-choice:active {
+        opacity: 0.75;
+      }
+
+      /* all three button rows share one slot — only one visible at a time */
+      .action-slot {
+        position: relative;
+        width: 100%;
+        height: 52px;
+      }
+      .action-slot > .btn-row {
+        position: absolute;
+        inset: 0;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.35s ease;
+      }
+      .action-slot > .btn-row.active {
+        opacity: 1;
+        pointer-events: all;
+      }
+
+      #btn-know {
+        background: #27ae60;
+      }
+      #btn-give {
+        background: #383838;
+      }
+      #btn-fail {
+        background: #c0392b;
+      }
+      #btn-pass {
+        background: #27ae60;
+      }
+      #btn-next-inner {
+        background: #383838;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- start -->
+    <div id="start-screen" class="screen active">
+      <h1>Угадай книгу</h1>
+      <p>Угадай название по обложке</p>
+      <button class="btn-primary" onclick="startGame()">Начать</button>
+    </div>
+
+    <!-- game -->
+    <div id="game-screen" class="screen">
+      <div class="game-top">
+        <div class="game-header">
+          <span id="game-stats">0/0</span>
+          <span class="game-header-title">Угадай книгу</span>
+          <button id="mute-btn" onclick="toggleMute()">♪</button>
+        </div>
+        <div class="cover-outer">
+          <div class="cover-inner">
+            <img id="cover-img" src="" alt="" />
+            <svg viewBox="0 0 100 100" preserveAspectRatio="none">
+              <polygon id="title-mask" points="5,78 97,78 97,90 5,90" />
+            </svg>
+          </div>
+        </div>
+      </div>
+
+      <div class="game-bottom">
+        <div class="timer-container">
+          <svg class="timer-ring" width="60" height="60" viewBox="0 0 100 100">
+            <circle class="timer-bg" cx="50" cy="50" r="44" />
+            <circle class="timer-arc" id="timer-arc" cx="50" cy="50" r="44" />
+          </svg>
+          <div id="timer-num">—</div>
+        </div>
+
+        <div id="reveal-wrap">
+          <div id="reveal-title"></div>
+          <div id="reveal-author"></div>
+        </div>
+
+        <div class="action-slot">
+          <div id="btn-early" class="btn-row active">
+            <button id="btn-know" class="btn-choice" onclick="reveal()">
+              Знаю!
+            </button>
+            <button id="btn-give" class="btn-choice" onclick="reveal(true)">
+              Сдаюсь
+            </button>
+          </div>
+          <div id="btn-row-confirm" class="btn-row">
+            <button id="btn-fail" class="btn-choice" onclick="onChoice(false)">
+              Не угадал
+            </button>
+            <button id="btn-pass" class="btn-choice" onclick="onChoice(true)">
+              Угадал
+            </button>
+          </div>
+          <div id="btn-next" class="btn-row">
+            <button
+              id="btn-next-inner"
+              class="btn-choice"
+              onclick="onChoice(false)"
+            >
+              Следующая книга
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- end -->
+    <div id="end-screen" class="screen">
+      <h2>Всё угадано!</h2>
+      <p id="end-stats"></p>
+      <button class="btn-primary" onclick="startGame()">Начать заново</button>
+    </div>
+
+    <script>
+      const CONFIG = { timerSeconds: 10 };
+      const CIRCUMFERENCE = 2 * Math.PI * 44;
+
+      // ── sound ──────────────────────────────────────────────────────────────────
+
+      let muted = false;
+
+      function toggleMute() {
+        muted = !muted;
+        const btn = document.getElementById("mute-btn");
+        btn.textContent = "♪";
+        btn.classList.toggle("muted", muted);
+      }
+
+      function playReveal() {
+        if (muted) return;
+        const ctx = new AudioContext();
+        [523.25, 659.25, 783.99, 1046.5].forEach((freq, i) => {
+          setTimeout(() => {
+            const osc = ctx.createOscillator();
+            const gain = ctx.createGain();
+            osc.connect(gain);
+            gain.connect(ctx.destination);
+            osc.type = "sine";
+            osc.frequency.value = freq;
+            gain.gain.setValueAtTime(0, ctx.currentTime);
+            gain.gain.linearRampToValueAtTime(0.22, ctx.currentTime + 0.012);
+            gain.gain.exponentialRampToValueAtTime(
+              0.001,
+              ctx.currentTime + 1.8,
+            );
+            osc.start(ctx.currentTime);
+            osc.stop(ctx.currentTime + 1.8);
+          }, i * 110);
+        });
+      }
+
+      // ── state ──────────────────────────────────────────────────────────────────
+
+      let allBooks = [];
+      let pool = [];
+      let known = new Set();
+      let currentBook = null;
+      let timerInterval = null;
+      let timeLeft = 0;
+
+      fetch("data/books-with-covers.json")
+        .then((r) => r.json())
+        .then((books) => {
+          allBooks = books.filter((b) => b.coverUrl);
+        });
+
+      function shuffle(arr) {
+        for (let i = arr.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [arr[i], arr[j]] = [arr[j], arr[i]];
+        }
+        return arr;
+      }
+
+      function show(id) {
+        document
+          .querySelectorAll(".screen")
+          .forEach((s) => s.classList.remove("active"));
+        document.getElementById(id).classList.add("active");
+      }
+
+      // ── game flow ──────────────────────────────────────────────────────────────
+
+      function updateStats() {
+        document.getElementById("game-stats").textContent =
+          `${known.size}/${allBooks.length}`;
+      }
+
+      function startGame() {
+        known = new Set();
+        pool = shuffle([...allBooks]);
+        nextRound();
+      }
+
+      function nextRound() {
+        if (pool.length === 0) {
+          document.getElementById("end-stats").textContent =
+            `Угадано книг: ${known.size} из ${allBooks.length}`;
+          show("end-screen");
+          return;
+        }
+
+        currentBook = pool.pop();
+
+        document.getElementById("cover-img").src = currentBook.coverUrl;
+        const mask = document.getElementById("title-mask");
+        mask.classList.remove("revealing");
+        mask.style.opacity = "1";
+        document.getElementById("reveal-wrap").classList.remove("show");
+        document.getElementById("reveal-title").textContent = "";
+        document.getElementById("reveal-author").textContent = "";
+        document.getElementById("btn-early").classList.add("active");
+        document.getElementById("btn-row-confirm").classList.remove("active");
+        document.getElementById("btn-next").classList.remove("active");
+        document.querySelector(".timer-container").style.visibility = "";
+
+        updateStats();
+        show("game-screen");
+        startTimer();
+      }
+
+      // ── timer ──────────────────────────────────────────────────────────────────
+
+      function startTimer() {
+        clearInterval(timerInterval);
+        timeLeft = CONFIG.timerSeconds;
+        updateTimer();
+
+        timerInterval = setInterval(() => {
+          timeLeft = Math.max(0, timeLeft - 0.1);
+          updateTimer();
+          if (timeLeft === 0) reveal(true);
+        }, 100);
+      }
+
+      function updateTimer() {
+        const frac = timeLeft / CONFIG.timerSeconds;
+        const arc = document.getElementById("timer-arc");
+        arc.style.strokeDasharray = CIRCUMFERENCE;
+        arc.style.strokeDashoffset = CIRCUMFERENCE * (1 - frac);
+        arc.style.stroke = `hsl(${frac * 120}, 75%, 50%)`;
+        document.getElementById("timer-num").textContent = Math.ceil(timeLeft);
+      }
+
+      // ── reveal ─────────────────────────────────────────────────────────────────
+
+      function reveal(giveUp = false) {
+        clearInterval(timerInterval);
+        document.getElementById("btn-early").classList.remove("active");
+        document.querySelector(".timer-container").style.visibility = "hidden";
+        const mask = document.getElementById("title-mask");
+        mask.classList.add("revealing");
+        mask.style.opacity = "0";
+        playReveal();
+
+        document.getElementById("reveal-title").textContent =
+          currentBook.title ?? "";
+        document.getElementById("reveal-author").textContent =
+          currentBook.author ?? "";
+
+        requestAnimationFrame(() =>
+          requestAnimationFrame(() => {
+            document.getElementById("reveal-wrap").classList.add("show");
+          }),
+        );
+
+        setTimeout(() => {
+          const target = giveUp ? "btn-next" : "btn-row-confirm";
+          document.getElementById(target).classList.add("active");
+        }, 900);
+      }
+
+      // ── choice ─────────────────────────────────────────────────────────────────
+
+      function onChoice(guessed) {
+        clearInterval(timerInterval);
+        if (guessed) {
+          known.add(currentBook.url);
+          updateStats();
+        } else {
+          const pos = Math.floor(Math.random() * (pool.length + 1));
+          pool.splice(pos, 0, currentBook);
+        }
+        setTimeout(nextRound, 250);
+      }
+    </script>
+  </body>
+</html>
