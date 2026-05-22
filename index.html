@@ -566,6 +566,18 @@
         }, 900);
       }
 
+      // ── keyboard ───────────────────────────────────────────────────────────────
+
+      document.addEventListener("keydown", (e) => {
+        if (e.code !== "Space" || e.repeat) return;
+        e.preventDefault();
+        if (document.getElementById("btn-early").classList.contains("active")) {
+          reveal(true);
+        } else if (document.getElementById("btn-next").classList.contains("active")) {
+          onChoice(false);
+        }
+      });
+
       // ── choice ─────────────────────────────────────────────────────────────────
 
       function onChoice(guessed) {
