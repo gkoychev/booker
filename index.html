@@ -50,19 +50,19 @@
       }
       #game-stats {
         font-size: 0.8rem;
-        color: #555;
+        color: #999;
         min-width: 48px;
       }
       .game-header-title {
         font-size: 0.8rem;
-        color: #666;
+        color: #999;
         letter-spacing: 0.06em;
         text-transform: uppercase;
       }
       #mute-btn {
         background: none;
         border: none;
-        color: #555;
+        color: #999;
         width: 36px;
         height: 36px;
         font-size: 1.1rem;
@@ -164,14 +164,16 @@
         box-shadow: 0 8px 40px rgba(0, 0, 0, 0.8);
         object-fit: cover;
       }
-      .cover-inner svg {
-        position: absolute;
-        inset: 0;
-        width: 100%;
-        height: 100%;
-      }
       #title-mask {
-        fill: #ff00ff;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 80%;
+        bottom: 0;
+        backdrop-filter: blur(18px) brightness(0.55);
+        -webkit-backdrop-filter: blur(18px) brightness(0.55);
+        background: rgba(0, 0, 0, 0.15);
+        border-radius: 0 0 8px 8px;
       }
       #title-mask.revealing {
         transition: opacity 1.2s ease;
@@ -339,12 +341,15 @@
         <div class="cover-outer">
           <div class="cover-inner">
             <img id="cover-img" src="" alt="" />
-            <svg viewBox="0 0 100 100" preserveAspectRatio="none">
-              <polygon id="title-mask" points="5,78 97,78 97,90 5,90" />
-            </svg>
+            <div id="title-mask"></div>
           </div>
           <div class="timer-container">
-            <svg class="timer-ring" width="48" height="48" viewBox="0 0 100 100">
+            <svg
+              class="timer-ring"
+              width="48"
+              height="48"
+              viewBox="0 0 100 100"
+            >
               <circle class="timer-bg" cx="50" cy="50" r="44" />
               <circle class="timer-arc" id="timer-arc" cx="50" cy="50" r="44" />
             </svg>
@@ -402,14 +407,20 @@
 
       // ── sound ──────────────────────────────────────────────────────────────────
 
-      let muted = false;
+      let muted = localStorage.getItem("muted") === "1";
+
+      function applyMute() {
+        const btn = document.getElementById("mute-btn");
+        btn.classList.toggle("muted", muted);
+      }
 
       function toggleMute() {
         muted = !muted;
-        const btn = document.getElementById("mute-btn");
-        btn.textContent = "♪";
-        btn.classList.toggle("muted", muted);
+        localStorage.setItem("muted", muted ? "1" : "0");
+        applyMute();
       }
+
+      applyMute();
 
       function playReveal() {
         if (muted) return;
